@@ -1,0 +1,1135 @@
+﻿<Mappings><Entry OldName="ColorPicker.CustomForm.InstanceCustomForm" NewName="ColorPicker.CustomForm.c7366be41cb9a82bf12ffacdd202a4e69" />
+<Entry OldName="ColorPicker.CustomForm.tooltip" NewName="ColorPicker.CustomForm.ca4caa6d1efd96da6c88589ec3b3493a7" />
+<Entry OldName="ColorPicker.frmAbout.components" NewName="ColorPicker.frmAbout.c2652950a1b8d525718ce51b16faaa892" />
+<Entry OldName="ColorPicker.frmAbout.lblAbout" NewName="ColorPicker.frmAbout.c456fc928935c4c122fd4b511b77bf9c5" />
+<Entry OldName="ColorPicker.frmAbout.btnClose" NewName="ColorPicker.frmAbout.cfa7e8998181ff67bf8215ffea5811eb8" />
+<Entry OldName="ColorPicker.frmAbout.pictureBox1" NewName="ColorPicker.frmAbout.c415a9aadb29a3c7f98f8b172dab1180a" />
+<Entry OldName="ColorPicker.frmAbout.linkLabel1" NewName="ColorPicker.frmAbout.ce1f0499d6b96b4a3b268545ea5970dff" />
+<Entry OldName="ColorPicker.frmAbout.label1" NewName="ColorPicker.frmAbout.ca4b5b899eae2ad880a27e2ca641d599b" />
+<Entry OldName="ColorPicker.frmAbout.label2" NewName="ColorPicker.frmAbout.cbce3db861ebe69d5f51c261d429cecfc" />
+<Entry OldName="ColorPicker.frmAbout.linkLabel2" NewName="ColorPicker.frmAbout.c914402ba55d73b2866e8668004db0128" />
+<Entry OldName="ColorPicker.frmAbout.niceLine1" NewName="ColorPicker.frmAbout.cb20ebe8194d033052df378eeeb691504" />
+<Entry OldName="ColorPicker.frmAbout.niceLine3" NewName="ColorPicker.frmAbout.c838b43edf4990e9dd9abd601f4dda7d0" />
+<Entry OldName="ColorPicker.frmAbout.label3" NewName="ColorPicker.frmAbout.c49fdbd38b80b1cfcc1bbc2997f8e678e" />
+<Entry OldName="ColorPicker.frmAbout.ullProductWebpage" NewName="ColorPicker.frmAbout.cb494eaf06d25f01bad0488d5f62570bd" />
+<Entry OldName="ColorPicker.frmAbout.lblRegistered" NewName="ColorPicker.frmAbout.c8444a03dbb6167ad91a8bcfc1b0d56ae" />
+<Entry OldName="ColorPicker.frmAbout.niceLine4" NewName="ColorPicker.frmAbout.cb3a78a0ec4379ab4206f086bb178e2cb" />
+<Entry OldName="ColorPicker.frmDownloadUpdate._DownloadFile" NewName="ColorPicker.frmDownloadUpdate.c959323b17a526a10cb0dabdfad8b6d74" />
+<Entry OldName="ColorPicker.frmDownloadUpdate.components" NewName="ColorPicker.frmDownloadUpdate.c2652950a1b8d525718ce51b16faaa892" />
+<Entry OldName="ColorPicker.frmDownloadUpdate.pgBar" NewName="ColorPicker.frmDownloadUpdate.c08e29082fc59e33e9729e0ddf8b71ad1" />
+<Entry OldName="ColorPicker.frmDownloadUpdate.btnCancelDownload" NewName="ColorPicker.frmDownloadUpdate.c2062cb86e0db612e3c4c7863dd8fb97c" />
+<Entry OldName="ColorPicker.frmDownloadUpdate.bwDownload" NewName="ColorPicker.frmDownloadUpdate.ce8adcc1b119e75c2b6231cbb5f0120af" />
+<Entry OldName="ColorPicker.frmDownloadUpdate.label1" NewName="ColorPicker.frmDownloadUpdate.ca4b5b899eae2ad880a27e2ca641d599b" />
+<Entry OldName="ColorPicker.frmDownloadUpdate.lblTotalSize" NewName="ColorPicker.frmDownloadUpdate.c105484825db7238a7dd40d7b58f3b046" />
+<Entry OldName="ColorPicker.frmError.components" NewName="ColorPicker.frmError.c2652950a1b8d525718ce51b16faaa892" />
+<Entry OldName="ColorPicker.frmError.txtError" NewName="ColorPicker.frmError.ce27bc7cd9e27a4d81f02b78a70e5483e" />
+<Entry OldName="ColorPicker.frmError.pictureBox1" NewName="ColorPicker.frmError.c415a9aadb29a3c7f98f8b172dab1180a" />
+<Entry OldName="ColorPicker.frmError.btnClose" NewName="ColorPicker.frmError.cfa7e8998181ff67bf8215ffea5811eb8" />
+<Entry OldName="ColorPicker.frmLanguage.components" NewName="ColorPicker.frmLanguage.c2652950a1b8d525718ce51b16faaa892" />
+<Entry OldName="ColorPicker.frmLanguage.label1" NewName="ColorPicker.frmLanguage.ca4b5b899eae2ad880a27e2ca641d599b" />
+<Entry OldName="ColorPicker.frmLanguage.cmbLanguage" NewName="ColorPicker.frmLanguage.c28414ef6125cd72bbe36858cdebe2b1d" />
+<Entry OldName="ColorPicker.frmLanguage.btnOK" NewName="ColorPicker.frmLanguage.cb63f4fdd2dd7b285035c936931745332" />
+<Entry OldName="ColorPicker.frmMain.forColorPickOnly" NewName="ColorPicker.frmMain.c28b35437ec66f472bbfb8db754d1b24f" />
+<Entry OldName="ColorPicker.frmMain.CROSS" NewName="ColorPicker.frmMain.c79071ca2ced6555dd5d9857c15e598ec" />
+<Entry OldName="ColorPicker.frmMain.NORMAL" NewName="ColorPicker.frmMain.cabd1948abe03004eefc1b962a8946359" />
+<Entry OldName="ColorPicker.frmMain.IBEAM" NewName="ColorPicker.frmMain.cd77940dee33d4c278ecf9302c07b5751" />
+<Entry OldName="ColorPicker.frmMain.InChangeLanguage" NewName="ColorPicker.frmMain.c7df3823c90054e418cc7880a17bbd75f" />
+<Entry OldName="ColorPicker.frmMain.SW_SHOW" NewName="ColorPicker.frmMain.cd855d073540b165ed2b1f317ec2fa079" />
+<Entry OldName="ColorPicker.frmMain.InShowing" NewName="ColorPicker.frmMain.c7cc2db9995590cb04d1913ce9e76e435" />
+<Entry OldName="ColorPicker.frmMain.components" NewName="ColorPicker.frmMain.c2652950a1b8d525718ce51b16faaa892" />
+<Entry OldName="ColorPicker.frmMain.lblFromDesc" NewName="ColorPicker.frmMain.c5ae01d780d40b955d985cdb614c78a89" />
+<Entry OldName="ColorPicker.frmMain.btnOK" NewName="ColorPicker.frmMain.cb63f4fdd2dd7b285035c936931745332" />
+<Entry OldName="ColorPicker.frmMain.colorDialog1" NewName="ColorPicker.frmMain.cb938c0741a7099a088c3a64d30cc546e" />
+<Entry OldName="ColorPicker.frmMain.btnCopRGB" NewName="ColorPicker.frmMain.c4b0ba0955246f3b6c0014b226f5fd2e0" />
+<Entry OldName="ColorPicker.frmMain.menuStrip1" NewName="ColorPicker.frmMain.c40b1b644a987a60cfe846c1c8826358c" />
+<Entry OldName="ColorPicker.frmMain.txtRGB" NewName="ColorPicker.frmMain.c63b45802bcb174e903ec56476fc9a8cc" />
+<Entry OldName="ColorPicker.frmMain.picPickColor" NewName="ColorPicker.frmMain.c4dbcf83840b09ef9af26e13ae8881a18" />
+<Entry OldName="ColorPicker.frmMain.label1" NewName="ColorPicker.frmMain.ca4b5b899eae2ad880a27e2ca641d599b" />
+<Entry OldName="ColorPicker.frmMain.label2" NewName="ColorPicker.frmMain.cbce3db861ebe69d5f51c261d429cecfc" />
+<Entry OldName="ColorPicker.frmMain.txtHSL" NewName="ColorPicker.frmMain.ca213fb078b21b179e6f9e1d404d9947b" />
+<Entry OldName="ColorPicker.frmMain.btnCopyHSL" NewName="ColorPicker.frmMain.c3d0c840b00f72e3398ece8b84ff1573f" />
+<Entry OldName="ColorPicker.frmMain.label3" NewName="ColorPicker.frmMain.c49fdbd38b80b1cfcc1bbc2997f8e678e" />
+<Entry OldName="ColorPicker.frmMain.txtHex" NewName="ColorPicker.frmMain.c81503d2d3446be8c0a46d0309363c4cb" />
+<Entry OldName="ColorPicker.frmMain.btnCopyHex" NewName="ColorPicker.frmMain.c6a5dedfe37bd9e89c75d37bc2fc52a29" />
+<Entry OldName="ColorPicker.frmMain.label4" NewName="ColorPicker.frmMain.cffa048fe668ad16e7c548cfeca8356fb" />
+<Entry OldName="ColorPicker.frmMain.notMain" NewName="ColorPicker.frmMain.c4f2c2eec76ebf721606d131b022daf3a" />
+<Entry OldName="ColorPicker.frmMain.cmsMain" NewName="ColorPicker.frmMain.cd55573c309ccb81ae35ce72b9082c616" />
+<Entry OldName="ColorPicker.frmMain.showToolStripMenuItem" NewName="ColorPicker.frmMain.c4730c9988092b04394342af71f4cf50b" />
+<Entry OldName="ColorPicker.frmMain.exitToolStripMenuItem" NewName="ColorPicker.frmMain.c09e887952cfcebf29e94cce70005fb48" />
+<Entry OldName="ColorPicker.frmMain.optionsToolStripMenuItem" NewName="ColorPicker.frmMain.c220102c59990bd35931a1b69b9ecd83a" />
+<Entry OldName="ColorPicker.frmMain.runMinimizedAtWindowsStartupToolStripMenuItem" NewName="ColorPicker.frmMain.c1df1c287a24f74e83ceec73857a7a61c" />
+<Entry OldName="ColorPicker.frmMain.minimizeToSystemTrayToolStripMenuItem" NewName="ColorPicker.frmMain.c39ea2d58e5aff3a66e8027885f05eff8" />
+<Entry OldName="ColorPicker.frmMain.fileToolStripMenuItem" NewName="ColorPicker.frmMain.c0676996f76bd2e9165aa0156c764ca7f" />
+<Entry OldName="ColorPicker.frmMain.exitToolStripMenuItem1" NewName="ColorPicker.frmMain.c8fbbb34bc23fa8c0b95c65f12bf2fdc5" />
+<Entry OldName="ColorPicker.frmMain.languageToolStripMenuItem1" NewName="ColorPicker.frmMain.c91811b53d1ac14aee9bc200f64e2bff9" />
+<Entry OldName="ColorPicker.frmMain.languages1ToolStripMenuItem" NewName="ColorPicker.frmMain.c2f35075a064f9affa6f9531248f10c93" />
+<Entry OldName="ColorPicker.frmMain.languages2ToolStripMenuItem" NewName="ColorPicker.frmMain.c6695e544228f5dab9311f278be0f5f1d" />
+<Entry OldName="ColorPicker.frmMain.helpToolStripMenuItem1" NewName="ColorPicker.frmMain.cee0d2d2797024dce957a26f72d6d9878" />
+<Entry OldName="ColorPicker.frmMain.helpGuideToolStripMenuItem" NewName="ColorPicker.frmMain.cc4c2b975da899edd1ed2f74b45aa0313" />
+<Entry OldName="ColorPicker.frmMain.pleaseDonateToolStripMenuItem1" NewName="ColorPicker.frmMain.c543d33993040083b11ba89154441530a" />
+<Entry OldName="ColorPicker.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem" NewName="ColorPicker.frmMain.c2c947516139cb7915d5886c8a5c9dd9c" />
+<Entry OldName="ColorPicker.frmMain.tiHelpFeedback" NewName="ColorPicker.frmMain.c91cfa25108478bdc8e0f77ade6da8f4f" />
+<Entry OldName="ColorPicker.frmMain.checkForNewVersionToolStripMenuItem" NewName="ColorPicker.frmMain.cabb936de48b943808d4e8613ab09fe9f" />
+<Entry OldName="ColorPicker.frmMain.toolStripMenuItem1" NewName="ColorPicker.frmMain.c59f18f01ffe620555e0740ef6b3bd6ae" />
+<Entry OldName="ColorPicker.frmMain.followUsOnTwitterToolStripMenuItem" NewName="ColorPicker.frmMain.c6457b488b5b33a24daf6eb9a8fa95997" />
+<Entry OldName="ColorPicker.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem" NewName="ColorPicker.frmMain.c2f839f383c8ccc6ed283fc5db581f83a" />
+<Entry OldName="ColorPicker.frmMain.aboutToolStripMenuItem" NewName="ColorPicker.frmMain.c8c8e964f9ef03c8cf25599caf1bc840b" />
+<Entry OldName="ColorPicker.frmMain.savePaletteAsPNGToolStripMenuItem" NewName="ColorPicker.frmMain.cf2e2e571e8d79d15db6f625bd1bafca9" />
+<Entry OldName="ColorPicker.frmMain.fplPalette" NewName="ColorPicker.frmMain.c0f1461104e8a411c2a39f307d3f8b3c2" />
+<Entry OldName="ColorPicker.frmMain.paletteNumberOfColorsToolStripMenuItem" NewName="ColorPicker.frmMain.c4911bdca41fe4ea02147407ab986c547" />
+<Entry OldName="ColorPicker.frmPaletteColors.components" NewName="ColorPicker.frmPaletteColors.c2652950a1b8d525718ce51b16faaa892" />
+<Entry OldName="ColorPicker.frmPaletteColors.label1" NewName="ColorPicker.frmPaletteColors.ca4b5b899eae2ad880a27e2ca641d599b" />
+<Entry OldName="ColorPicker.frmPaletteColors.nudNumber" NewName="ColorPicker.frmPaletteColors.c97880f6f8a45d1c35d61a65bec2b091b" />
+<Entry OldName="ColorPicker.frmPaletteColors.btnCancel" NewName="ColorPicker.frmPaletteColors.cb5c2a7ed8628ac4512a1699c56b8db6f" />
+<Entry OldName="ColorPicker.frmPaletteColors.btnOK" NewName="ColorPicker.frmPaletteColors.cb63f4fdd2dd7b285035c936931745332" />
+<Entry OldName="ColorPicker.HSLColor.hue" NewName="ColorPicker.HSLColor.ce2c34c906aba160fa244d8e4511e236d" />
+<Entry OldName="ColorPicker.HSLColor.saturation" NewName="ColorPicker.HSLColor.c3b81b95e26db8af3d17f52882e7f12d1" />
+<Entry OldName="ColorPicker.HSLColor.luminosity" NewName="ColorPicker.HSLColor.c846869c57bb787ce5b262ae1802310b1" />
+<Entry OldName="ColorPicker.HSLColor.scale" NewName="ColorPicker.HSLColor.c93d5dc9c0f4dccdcf61b8c31cb1b3c2f" />
+<Entry OldName="ColorPicker.ImageComboBox.imageList" NewName="A.ca3c7a415bc98f246c4f83eee385dd2e7.c365ebfad457ae40abb42125963cca083" />
+<Entry OldName="ColorPicker.ComboBoxExItem._text" NewName="A.cac5af07ef0f26ed670bddab5483da553.c7c5f33882ed883666b14f025a076de3e" />
+<Entry OldName="ColorPicker.ComboBoxExItem._imageIndex" NewName="A.cac5af07ef0f26ed670bddab5483da553.c5b7771a00e3684f46fc176a25eddb194" />
+<Entry OldName="ColorPicker.InterceptKeys.KEYEVENTF_EXTENDEDKEY" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c6452f3e797c5ca7249f7cc07236a661e" />
+<Entry OldName="ColorPicker.InterceptKeys.KEYEVENTF_KEYUP" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c3fcc2f00dc3f784df564f3545b6c7efd" />
+<Entry OldName="ColorPicker.InterceptKeys.NUMLOCK" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.ced69e5dbba8f4e841c1d019a122a3ddb" />
+<Entry OldName="ColorPicker.InterceptKeys.CAPITAL" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c5bcd3e8087a10c6f5f7d7bcc1e77701d" />
+<Entry OldName="ColorPicker.InterceptKeys.SCROLL" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c8fbc036a5c115dd9110baf28bf66fb7f" />
+<Entry OldName="ColorPicker.InterceptKeys.INSERT" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.cc1a4988ad8c489ec4fdcd6c514a9a6f5" />
+<Entry OldName="ColorPicker.InterceptKeys.WH_KEYBOARD_LL" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c93eb2fe412081d2346038729d7f2b0eb" />
+<Entry OldName="ColorPicker.InterceptKeys.WM_KEYDOWN" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c23dd8d92e5f3169848fa39450682f7d8" />
+<Entry OldName="ColorPicker.InterceptKeys.WM_KEYUP" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c2ec72cc056b0b355f4d3849f1ef11879" />
+<Entry OldName="ColorPicker.InterceptKeys.WM_SYSKEYDOWN" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c499831b5d9bd99607af5f3036b5aed64" />
+<Entry OldName="ColorPicker.InterceptKeys.WM_SYSKEYUP" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c179d937e17b2815425f8aa0fca829fb8" />
+<Entry OldName="ColorPicker.InterceptKeys._proc" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.cdeb7de44c1f5319b1554529042662ea2" />
+<Entry OldName="ColorPicker.InterceptKeys.InAddKeyMode" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c0ed6bf0d15f5f5647be42a6320101e2d" />
+<Entry OldName="ColorPicker.InterceptKeys._hookID" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.caed51b1feb3fb6b6078f1b3ac23b2345" />
+<Entry OldName="ColorPicker.InterceptKeys.bShift" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c227416ed1d0f459b9c11f8c98376cacd" />
+<Entry OldName="ColorPicker.InterceptKeys.bCtrl" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.cf602fd5ba635816e9f311936ef7f53bb" />
+<Entry OldName="ColorPicker.InterceptKeys.bAlt" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c67c4e429be9a51814cccb09b2efb518a" />
+<Entry OldName="ColorPicker.InterceptKeys.bAltGr" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c37a30cbc9a3bcec5a8754fde5ddc1f31" />
+<Entry OldName="ColorPicker.InterceptKeys.bLWin" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.cc32c0d71a72eb3e071d4f97e5abd4ba1" />
+<Entry OldName="ColorPicker.InterceptKeys.bRWin" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c8b8a5fcf2185532065a399d43935cd0f" />
+<Entry OldName="ColorPicker.InterceptKeys.Hooked" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c3dd4b8e01520d4de3f6e1bce2c80cd9c" />
+<Entry OldName="ColorPicker.InterceptKeys.HookedForAddKey" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.caec85bdd47b91a14a56689ef0c28eb42" />
+<Entry OldName="ColorPicker.InterceptKeys.ShouldSendKeys" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c46e4936f7f61543c326cd637851be2bb" />
+<Entry OldName="ColorPicker.InterceptKeys.HookItems" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c93f0c3a8e1fd79305539242ac82e5510" />
+<Entry OldName="ColorPicker.InterceptKeys.bwHookCallbak" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.cbd3583212c60f31eea80e1ca4d521ce5" />
+<Entry OldName="ColorPicker.InterceptKeys.CheckSetHookTimer" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c22a8d1f26c897617fb57f9dfeeda4350" />
+<Entry OldName="ColorPicker.Module.BlueForeColor" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c54fa0746b001e0aee21d64fff7b5ff15" />
+<Entry OldName="ColorPicker.Module.ApplicationName" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.ce00005f57b7b70fe213e749662fc33a4" />
+<Entry OldName="ColorPicker.Module.Version" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c9d10f9147d9025c0bc4a0f26c6665f03" />
+<Entry OldName="ColorPicker.Module.Ver" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c2a18c6806be8dcc498f86fbb2dad8664" />
+<Entry OldName="ColorPicker.Module.ShortApplicationTitle" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.cb8d001bd48c7a1299eb0fafc3ddb9085" />
+<Entry OldName="ColorPicker.Module.ApplicationTitle" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c5fd48ba6ec795f4a4467727b0124f9f0" />
+<Entry OldName="ColorPicker.Module.DownloadURL" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.cd665ec7c6f5cd4334406531d490fb693" />
+<Entry OldName="ColorPicker.Module.HelpURL" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.cb3e012431e87612cae3de3a4e369fb16" />
+<Entry OldName="ColorPicker.Module.ProductWebpageURL" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c9b008053e2d5a5e0fca2c83c118ff55a" />
+<Entry OldName="ColorPicker.Module.BuyURL" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.ca2b3d8677d7c4c709464669e8d8640dc" />
+<Entry OldName="ColorPicker.Module.VersionURL" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c20d15abb887474f29cab43bef835feaa" />
+<Entry OldName="ColorPicker.Module.TipText" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.cfef3f750fa286753dd7823051aa4d7eb" />
+<Entry OldName="ColorPicker.Module.GeneratedTemporaryFiles" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c45b096748f47f23195d04f4e09fb36e8" />
+<Entry OldName="ColorPicker.Module.OpenFilesFilter" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.ca41385e5494fa64b555a1c430ca56cc2" />
+<Entry OldName="ColorPicker.Module.OpenImagesFilter" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c4719d610a8283ad8919fbe99a2b0dbf7" />
+<Entry OldName="ColorPicker.Module.AcceptableMediaInputPattern" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c4446cfa26bffdaeec4bee5d115381f31" />
+<Entry OldName="ColorPicker.Module.AppDataDirectory" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c4d5ceb499ccbb55aed10aac96b5c3c9a" />
+<Entry OldName="ColorPicker.Module.CurrentImagesDirectory" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.ca5afa6f75dc285e542194856dc86a8b6" />
+<Entry OldName="ColorPicker.Module.SelectedLanguage" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c1bdc9f2af0f8e3d101115b0a5ebded8b" />
+<Entry OldName="ColorPicker.Module.args" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c09d0c8af1e39adfc0da1ba77e36be3bc" />
+<Entry OldName="ColorPicker.Module.IsCommandLine" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c8f8f988797e95e706e294afae3484039" />
+<Entry OldName="ColorPicker.Module.IsFromWindowsExplorer" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.caf34e3b94a743a422dd5ad678fcb704b" />
+<Entry OldName="ColorPicker.Module.DoNotOverwriteFiles" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.cf05be72cdb2168a9ef5f5103acd60560" />
+<Entry OldName="ColorPicker.Module.AskBeforeOverwrite" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c5985ee376bceb74250ea8293e22cb5e7" />
+<Entry OldName="ColorPicker.Module.LeaveSameDateTime" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c512835fea7129094435c0d45b2358946" />
+<Entry OldName="ColorPicker.Module.OutputFilepath" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c70db1f53a24da0f652bd260341407280" />
+<Entry OldName="ColorPicker.Module._Modex64" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c5dc84b900e7d7cf246dff4a8e3306367" />
+<Entry OldName="ColorPicker.NiceLine.components" NewName="ColorPicker.NiceLine.c2652950a1b8d525718ce51b16faaa892" />
+<Entry OldName="ColorPicker.NiceLine._Caption" NewName="ColorPicker.NiceLine.c5be5b55f0bad4c0bb58b17431fedfefa" />
+<Entry OldName="ColorPicker.NiceLine._CaptionMarginSpace" NewName="ColorPicker.NiceLine.cb02245a0f45c292698fb98585d18edf7" />
+<Entry OldName="ColorPicker.NiceLine._CaptionPadding" NewName="ColorPicker.NiceLine.cc2240a3118540e6c88c37cbaa41bbfb3" />
+<Entry OldName="ColorPicker.NiceLine._LineVerticalAlign" NewName="ColorPicker.NiceLine.cb6e27eac5daf05a7effdc02be2933d54" />
+<Entry OldName="ColorPicker.NiceLine._CaptionOrizontalAlign" NewName="ColorPicker.NiceLine.c71171cc44842f60539a11f0aed6e6120" />
+<Entry OldName="ColorPicker.picPalette.&lt;WasSet&gt;k__BackingField" NewName="ColorPicker.picPalette.c9aa1f0628efb63a921ab409d33c24dc9" />
+<Entry OldName="ColorPicker.picPalette.components" NewName="ColorPicker.picPalette.c2652950a1b8d525718ce51b16faaa892" />
+<Entry OldName="ColorPicker.picPalette.cmsPalette" NewName="ColorPicker.picPalette.cfbf3150feaa9242ecc47b97b3a0e037a" />
+<Entry OldName="ColorPicker.picPalette.clearToolStripMenuItem" NewName="ColorPicker.picPalette.c06b3aae65ac0a1475328b9ae5e17fe1a" />
+<Entry OldName="ColorPicker.picPalette.copyAllToolStripMenuItem" NewName="ColorPicker.picPalette.c68bd89aeebffac27d556192df43944c6" />
+<Entry OldName="ColorPicker.picPalette.copyRGBToolStripMenuItem" NewName="ColorPicker.picPalette.cc2d7616f2282c9335aa8ff682c095dd6" />
+<Entry OldName="ColorPicker.picPalette.copyHSLToolStripMenuItem" NewName="ColorPicker.picPalette.cd03053711673b4b2f11ac1765d8cf49a" />
+<Entry OldName="ColorPicker.picPalette.copyHexToolStripMenuItem" NewName="ColorPicker.picPalette.c7cdf50280cffa3cbad05d65a34257e12" />
+<Entry OldName="ColorPicker.ResFlags.resourceMan" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.c0a5b5d30120d30b4764c434afd5d9637" />
+<Entry OldName="ColorPicker.ResFlags.resourceCulture" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.c5e5c7a6e03d2b1cac7549b1dd2b1a84c" />
+<Entry OldName="ColorPicker.ResTranslate.resourceMan" NewName="A.c697527457c97fb25b97fdbcc2d7c170d.c0a5b5d30120d30b4764c434afd5d9637" />
+<Entry OldName="ColorPicker.ResTranslate.resourceCulture" NewName="A.c697527457c97fb25b97fdbcc2d7c170d.c5e5c7a6e03d2b1cac7549b1dd2b1a84c" />
+<Entry OldName="ColorPicker.TranslateHelper.rm" NewName="A.cd91077096eeca236f50b9695b4e1a9f3.cf91256e62661f8fb894fb1987bf4fe26" />
+<Entry OldName="ColorPicker.TranslateHelper.rm2" NewName="A.cd91077096eeca236f50b9695b4e1a9f3.cd9e04ad4499ff1811cead3a41f2cdb55" />
+<Entry OldName="ColorPicker.ucTextProgressBar.WmPaint" NewName="ColorPicker.ucTextProgressBar.c707b606a27eccbda74584a31c2df6141" />
+<Entry OldName="ColorPicker.ucTextProgressBar.components" NewName="ColorPicker.ucTextProgressBar.c2652950a1b8d525718ce51b16faaa892" />
+<Entry OldName="ColorPicker.UpdateHelper.bwCheckVersion" NewName="ColorPicker.UpdateHelper.cf5a5dd6118c14de98ccb95dd42d27827" />
+<Entry OldName="ColorPicker.Properties.Resources.resourceMan" NewName="A.c7521dca9c02eddc922273214782d8a47.c0a5b5d30120d30b4764c434afd5d9637" />
+<Entry OldName="ColorPicker.Properties.Resources.resourceCulture" NewName="A.c7521dca9c02eddc922273214782d8a47.c5e5c7a6e03d2b1cac7549b1dd2b1a84c" />
+<Entry OldName="ColorPicker.frmMain.IDC_STANDARD_CURSORS.value__" NewName="ColorPicker.frmMain.c933ffff4581f91ea98c640060159ce0c.value__" />
+<Entry OldName="ColorPicker.frmMain.IDC_STANDARD_CURSORS.IDC_ARROW" NewName="ColorPicker.frmMain.c933ffff4581f91ea98c640060159ce0c.c3f40cce2cd999635c88eadae8b6444e1" />
+<Entry OldName="ColorPicker.frmMain.IDC_STANDARD_CURSORS.IDC_IBEAM" NewName="ColorPicker.frmMain.c933ffff4581f91ea98c640060159ce0c.cd9de5383922fc7a0ca9fe01a8fca35ac" />
+<Entry OldName="ColorPicker.frmMain.IDC_STANDARD_CURSORS.IDC_WAIT" NewName="ColorPicker.frmMain.c933ffff4581f91ea98c640060159ce0c.c93108f3df049a78a241588c33c5e17d6" />
+<Entry OldName="ColorPicker.frmMain.IDC_STANDARD_CURSORS.IDC_CROSS" NewName="ColorPicker.frmMain.c933ffff4581f91ea98c640060159ce0c.cd09546a365ef17aa096f72f432ebf9f5" />
+<Entry OldName="ColorPicker.frmMain.IDC_STANDARD_CURSORS.IDC_UPARROW" NewName="ColorPicker.frmMain.c933ffff4581f91ea98c640060159ce0c.cb216e5a532c43aa7d71c40c32e706782" />
+<Entry OldName="ColorPicker.frmMain.IDC_STANDARD_CURSORS.IDC_SIZE" NewName="ColorPicker.frmMain.c933ffff4581f91ea98c640060159ce0c.cbcc94734fca56a374107ad7988a12d6d" />
+<Entry OldName="ColorPicker.frmMain.IDC_STANDARD_CURSORS.IDC_ICON" NewName="ColorPicker.frmMain.c933ffff4581f91ea98c640060159ce0c.c71c41153693f2a67d10735e12dd5e3cf" />
+<Entry OldName="ColorPicker.frmMain.IDC_STANDARD_CURSORS.IDC_SIZENWSE" NewName="ColorPicker.frmMain.c933ffff4581f91ea98c640060159ce0c.c826777c8669267c01803f53d5fbb09a8" />
+<Entry OldName="ColorPicker.frmMain.IDC_STANDARD_CURSORS.IDC_SIZENESW" NewName="ColorPicker.frmMain.c933ffff4581f91ea98c640060159ce0c.c60002cacf780592fb7e2e97425582577" />
+<Entry OldName="ColorPicker.frmMain.IDC_STANDARD_CURSORS.IDC_SIZEWE" NewName="ColorPicker.frmMain.c933ffff4581f91ea98c640060159ce0c.cadeadb3eed2d6068e22a1a819a539182" />
+<Entry OldName="ColorPicker.frmMain.IDC_STANDARD_CURSORS.IDC_SIZENS" NewName="ColorPicker.frmMain.c933ffff4581f91ea98c640060159ce0c.c4e463dc03b2863e68b2670bfe1307a55" />
+<Entry OldName="ColorPicker.frmMain.IDC_STANDARD_CURSORS.IDC_SIZEALL" NewName="ColorPicker.frmMain.c933ffff4581f91ea98c640060159ce0c.c4227af106216370b427cf9ed18c5d9bf" />
+<Entry OldName="ColorPicker.frmMain.IDC_STANDARD_CURSORS.IDC_NO" NewName="ColorPicker.frmMain.c933ffff4581f91ea98c640060159ce0c.ccd806937688ae230aeee3bb0cf14b4e9" />
+<Entry OldName="ColorPicker.frmMain.IDC_STANDARD_CURSORS.IDC_APPSTARTING" NewName="ColorPicker.frmMain.c933ffff4581f91ea98c640060159ce0c.ccf646303ba3f634c23d1094b996db6b1" />
+<Entry OldName="ColorPicker.frmMain.IDC_STANDARD_CURSORS.IDC_HELP" NewName="ColorPicker.frmMain.c933ffff4581f91ea98c640060159ce0c.c2262f3a263ccec2356181ed844d7e131" />
+<Entry OldName="ColorPicker.InterceptKeys.KBDLLHOOKSTRUCT.key" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c7b57777f255f47895470b8ba9b8679e0.cddc0cef77d707ca44de013a8574667cf" />
+<Entry OldName="ColorPicker.InterceptKeys.KBDLLHOOKSTRUCT.scanCode" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c7b57777f255f47895470b8ba9b8679e0.cda26f55df5621801a5ef9c337b251e1c" />
+<Entry OldName="ColorPicker.InterceptKeys.KBDLLHOOKSTRUCT.flags" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c7b57777f255f47895470b8ba9b8679e0.cd262d95b67e11287307533e56a639de8" />
+<Entry OldName="ColorPicker.InterceptKeys.KBDLLHOOKSTRUCT.time" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c7b57777f255f47895470b8ba9b8679e0.cb22670a979fb1b77f646345745bfe24c" />
+<Entry OldName="ColorPicker.InterceptKeys.KBDLLHOOKSTRUCT.extra" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c7b57777f255f47895470b8ba9b8679e0.cdee5c54b0c78d050a9c5b5b15da36add" />
+<Entry OldName="ColorPicker.CustomForm.InitializeComponent()" NewName="ColorPicker.CustomForm.c2543a495c946c25a9ad91d6e5aa28f47()" />
+<Entry OldName="ColorPicker.CustomForm.CustomForm_Load(Object sender, EventArgs e)" NewName="ColorPicker.CustomForm.c71e8dcbc87751da312bdb39298fcbb00(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.CustomForm.CustomForm_KeyPress(Object sender, KeyPressEventArgs e)" NewName="ColorPicker.CustomForm.ca82a96c982d8db40b54e74ffe9e3afee(Object cec212f2f42671d3be048e956a6148507, KeyPressEventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.CustomForm.CustomForm_KeyDown(Object sender, KeyEventArgs e)" NewName="ColorPicker.CustomForm.c3f287a8fb603325210025259513be6da(Object cec212f2f42671d3be048e956a6148507, KeyEventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.CustomForm.CustomForm_Activated(Object sender, EventArgs e)" NewName="ColorPicker.CustomForm.c45aa77922a7c366049da9b5d8b3135bb(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.CustomForm.ResizeChildControls(Control co)" NewName="ColorPicker.CustomForm.c9c6e45102a8ba4ece2ebdacf74b81b13(Control c8c1573a2ccbd4fabdc207f6fd3b75a16)" />
+<Entry OldName="ColorPicker.ExceptionHandlersHelper..ctor()" NewName="A.ccbd912e11c40d60d222fedceca867c2e..ctor()" />
+<Entry OldName="ColorPicker.ExceptionHandlersHelper.AddUnhandledExceptionHandlers()" NewName="A.ccbd912e11c40d60d222fedceca867c2e.cb46acb9fb340a7a01dc2617dfb35b087()" />
+<Entry OldName="ColorPicker.ExceptionHandlersHelper.myExceptionHandler(Object sender, UnhandledExceptionEventArgs e)" NewName="A.ccbd912e11c40d60d222fedceca867c2e.c5f14e840dda2b5403f428cbed41ad141(Object cec212f2f42671d3be048e956a6148507, UnhandledExceptionEventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.ExceptionHandlersHelper.myThreadExceptionHandler(Object sender, ThreadExceptionEventArgs e)" NewName="A.ccbd912e11c40d60d222fedceca867c2e.c3ad02aace1478745899a324712f3cba3(Object cec212f2f42671d3be048e956a6148507, ThreadExceptionEventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmAbout.frmAbout_Load(Object sender, EventArgs e)" NewName="ColorPicker.frmAbout.cf927a26cc8f8bfe38b9912708db95c59(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmAbout.btnClose_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmAbout.c7f4f75ffed33cab70d2f1c6ca847238c(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmAbout.linkLabel1_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="ColorPicker.frmAbout.c07ef2d245e44f401448666ece7bebd3e(Object cec212f2f42671d3be048e956a6148507, LinkLabelLinkClickedEventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmAbout.linkLabel2_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="ColorPicker.frmAbout.c03e5d74cac2054ccb9127308f4901a67(Object cec212f2f42671d3be048e956a6148507, LinkLabelLinkClickedEventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmAbout.InitializeComponent()" NewName="ColorPicker.frmAbout.c2543a495c946c25a9ad91d6e5aa28f47()" />
+<Entry OldName="ColorPicker.frmDownloadUpdate.frmDownloadUpdate_Load(Object sender, EventArgs e)" NewName="ColorPicker.frmDownloadUpdate.c55f9f00f9640bcb1b3a20a63b10e6a88(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmDownloadUpdate.client_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)" NewName="ColorPicker.frmDownloadUpdate.ceb046cf743c7fbb0b6781ebafaae1a7d(Object cec212f2f42671d3be048e956a6148507, AsyncCompletedEventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmDownloadUpdate.client_DownloadProgressChanged(Object sender, DownloadProgressChangedEventArgs e)" NewName="ColorPicker.frmDownloadUpdate.c3112fdbb20e0f2841613b348a67fe28a(Object cec212f2f42671d3be048e956a6148507, DownloadProgressChangedEventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmDownloadUpdate.btnCancelDownload_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmDownloadUpdate.c1e9e0407b07f29f58785e8db9591aa50(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmDownloadUpdate.InitializeComponent()" NewName="ColorPicker.frmDownloadUpdate.c2543a495c946c25a9ad91d6e5aa28f47()" />
+<Entry OldName="ColorPicker.frmError.btnClose_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmError.c7f4f75ffed33cab70d2f1c6ca847238c(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmError.InitializeComponent()" NewName="ColorPicker.frmError.c2543a495c946c25a9ad91d6e5aa28f47()" />
+<Entry OldName="ColorPicker.frmLanguage.btnOK_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmLanguage.c3e41cc92a3588be8036d7761128b7993(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmLanguage.frmLanguage_Load(Object sender, EventArgs e)" NewName="ColorPicker.frmLanguage.c2be022de2bd72d884ff4833087989204(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmLanguage.InitializeComponent()" NewName="ColorPicker.frmLanguage.c2543a495c946c25a9ad91d6e5aa28f47()" />
+<Entry OldName="ColorPicker.frmMain.btnCancel_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.c9de5c854e5c53ae15b1bb8ef25a199c0(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.btnOK_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.c3e41cc92a3588be8036d7761128b7993(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.btnFromColor_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.cf4e8106a05559637d4d849b451d430d8(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.btnToColor_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.cba0f8ca63f65f4285ee58f0831f10de0(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.frmReplaceColor_Load(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.c6b2c08f74269fcb417369d989a812112(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.tbReplaceColor_Scroll(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.ccca23c7f50ef1e8e0e8699fee439c40a(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.btnFromColorPick_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.c6bbf81734345615b38b6432e56924a23(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.btnToColorPick_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.c8f0dcd56464d1807f107a206fa2abc06(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.lblToColor_BackColorChanged(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.c9c6d7db09c3c04d15bf5a8560f004d6a(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.btnToCopy_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.cf551cd566a43fed33a3dc1e63f8b6f3f(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.SetSystemCursor(IntPtr hcur, UInt32 id)" NewName="ColorPicker.frmMain.cc0ec74c50052137d08f6f03f354014f0(IntPtr cf27c8bc55e7d6174cac4166327a0626c, UInt32 c2f2d1e9e36eed3b4ae75675ba73abff0)" />
+<Entry OldName="ColorPicker.frmMain.LoadCursor(IntPtr hInstance, Int32 lpCursorName)" NewName="ColorPicker.frmMain.c68ea378b2fc4b393265ec7e598864ccd(IntPtr cdd4e0fd8012fed70caaaeb967575405c, Int32 c9a582cd8868a5f8a2d9a792e777751b1)" />
+<Entry OldName="ColorPicker.frmMain.SystemParametersInfo(UInt32 uiAction, UInt32 uiParam, String pvParam, UInt32 fWinIni)" NewName="ColorPicker.frmMain.c379306b07da3c5dbf777ba4bf7410777(UInt32 c3b2536d7456b50a2b786455ed20cff47, UInt32 c61221fad1f8e8592fad8d9279088eba8, String c692a298d8108118ddcabb32f68b131cc, UInt32 c8723ca5d45c6f5335b99c386e7fb1002)" />
+<Entry OldName="ColorPicker.frmMain.SetSystemCursorCross()" NewName="ColorPicker.frmMain.c76458a4ae275d719714e128f91666a65()" />
+<Entry OldName="ColorPicker.frmMain.SetSystemCursorNormal()" NewName="ColorPicker.frmMain.c85fbcac37d00dcee61569717fb99bf51()" />
+<Entry OldName="ColorPicker.frmMain.SetupOnLoad()" NewName="ColorPicker.frmMain.c7c861ac6b384ccbd85e1f8de28e89c6c()" />
+<Entry OldName="ColorPicker.frmMain.SetupPaletteColors()" NewName="ColorPicker.frmMain.ca7ddb40dc8f817b91c3a92085432c7f1()" />
+<Entry OldName="ColorPicker.frmMain.AdjustSizeLocation()" NewName="ColorPicker.frmMain.c4a5e4fe97b6e000d522a723b951a0df9()" />
+<Entry OldName="ColorPicker.frmMain.SaveSizeLocation()" NewName="ColorPicker.frmMain.c34a76462e122c66ec701aa7ed01473fb()" />
+<Entry OldName="ColorPicker.frmMain.AddLanguageMenuItems()" NewName="ColorPicker.frmMain.c2e44c21cd060d1cbcc425c117b58e95d()" />
+<Entry OldName="ColorPicker.frmMain.tiLang_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.c29a205ace99a2ef2c2bfd8304a26f6d6(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.ChangeLanguage(String language_code)" NewName="ColorPicker.frmMain.ce7e51ca2e2ed872c6b254a445973e385(String cb2a0cf96323074a0708f2ef3bdcf9f24)" />
+<Entry OldName="ColorPicker.frmMain.helpGuideToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.c2146e8db17a904b70854465f0c5ee852(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.pleaseDonateToolStripMenuItem1_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.caffff04bcc2a2333c39753738a919c75(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.c2f66a719ac4baeb9363804b7ff5ba7f0(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.tiHelpFeedback_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.c12591e4a6fe258e41a7b81ccf220e92e(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.checkForNewVersionToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.ce879a08abbfd4ebd70447c2e7791efb2(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.followUsOnTwitterToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.cd5f499407f7226af5f5e9934061469b3(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.ca47eff06bccfdad8a73eeda2324f2b97(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.aboutToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.c6ae540e9808ddbd69a43698a345f50e8(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.picPickColor_Paint(Object sender, PaintEventArgs e)" NewName="ColorPicker.frmMain.c707c2939149dba933184af573c11452d(Object cec212f2f42671d3be048e956a6148507, PaintEventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.frmMain_KeyPress(Object sender, KeyPressEventArgs e)" NewName="ColorPicker.frmMain.c7e736b64a85418af0be299e896c83e01(Object cec212f2f42671d3be048e956a6148507, KeyPressEventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.SavePaletteColors()" NewName="ColorPicker.frmMain.cda55f4a269f7f99c754a610f127505cc()" />
+<Entry OldName="ColorPicker.frmMain.frmMain_FormClosing(Object sender, FormClosingEventArgs e)" NewName="ColorPicker.frmMain.c57f960f9cba197e4e7b48630d7cc97ee(Object cec212f2f42671d3be048e956a6148507, FormClosingEventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.exitToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.c8acdc13c0017936f4225d57e36a7eae6(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.ShowWindow(IntPtr hWnd, Int32 nCmdShow)" NewName="ColorPicker.frmMain.c1a1289724a95d0b0502d5b459c2c16f6(IntPtr cd5244725b59aeaaeee9bd2785895e33a, Int32 ce93491051c0cb31cea7db6f0c8ad174e)" />
+<Entry OldName="ColorPicker.frmMain.EnableWindow(IntPtr hwnd, Boolean enabled)" NewName="ColorPicker.frmMain.cbb9bd889b171152b958b6462c296fdc6(IntPtr c65c8d91f029fb2ca110fb9fed418a86e, Boolean c89106984040666dbd492bf5f6ce18576)" />
+<Entry OldName="ColorPicker.frmMain.showToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.c2b447a2d44adaa825cef4f640108360d(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.frmMain_Resize(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.ca2969f8637359d1057f0079ac9dc286b(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.runMinimizedAtWindowsStartupToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.c04624d68bbe3cb4e701bb931ff6462f3(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.minimizeToSystemTrayToolStripMenuItem_CheckedChanged(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.ca4a4d18086543df8eb5716698635e77c(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.minimizeToSystemTrayToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.c8907ae24fa03102e7629fa9d17b2ba23(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.exitToolStripMenuItem1_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.c7728e9ac19ac8019ce5879bc8c0a5a60(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.paletteNumberOfColorsToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.c0c4e6f55d0495b9e0f04176ab71333f3(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.savePaletteAsPNGToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmMain.c90d03f65478d82205c7cb5f64e5d9cbf(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmMain.InitializeComponent()" NewName="ColorPicker.frmMain.c2543a495c946c25a9ad91d6e5aa28f47()" />
+<Entry OldName="ColorPicker.frmPaletteColors.btnOK_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmPaletteColors.c3e41cc92a3588be8036d7761128b7993(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmPaletteColors.btnCancel_Click(Object sender, EventArgs e)" NewName="ColorPicker.frmPaletteColors.c9de5c854e5c53ae15b1bb8ef25a199c0(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmPaletteColors.frmPaletteColors_Load(Object sender, EventArgs e)" NewName="ColorPicker.frmPaletteColors.c0da6966bda944ba13fbaf8bc05e51b3c(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.frmPaletteColors.InitializeComponent()" NewName="ColorPicker.frmPaletteColors.c2543a495c946c25a9ad91d6e5aa28f47()" />
+<Entry OldName="ColorPicker.HSLColor.CheckRange(Double value)" NewName="ColorPicker.HSLColor.c303823e71881d7aa710f291aaa6963a2(Double cb432504b199e4f033ce699f2c6b12683)" />
+<Entry OldName="ColorPicker.HSLColor.GetColorComponent(Double temp1, Double temp2, Double temp3)" NewName="ColorPicker.HSLColor.c1744b0bef14e3fdfd7cec90936b639ad(Double c66ab1cb302d0573eb683e2a4bd7ac66c, Double c26878a678efd1fef757f403e2bc59479, Double c7cbd8e7d949975bf3896a188e1608fd1)" />
+<Entry OldName="ColorPicker.HSLColor.MoveIntoRange(Double temp3)" NewName="ColorPicker.HSLColor.c860300561ebf4d56556554513e5c7054(Double c7cbd8e7d949975bf3896a188e1608fd1)" />
+<Entry OldName="ColorPicker.HSLColor.GetTemp2(HSLColor hslColor)" NewName="ColorPicker.HSLColor.c1c970b407ce40a04b19a30674ba5a7f2(HSLColor c84161c3307c720ca8ae432a1698f296f)" />
+<Entry OldName="ColorPicker.ImageComboBox..ctor()" NewName="A.ca3c7a415bc98f246c4f83eee385dd2e7..ctor()" />
+<Entry OldName="ColorPicker.ImageComboBox.get_ImageList()" NewName="A.ca3c7a415bc98f246c4f83eee385dd2e7.get_cf71816c3b4820a161c2715f5935e49f9()" />
+<Entry OldName="ColorPicker.ImageComboBox.set_ImageList(ImageList value)" NewName="A.ca3c7a415bc98f246c4f83eee385dd2e7.set_cf71816c3b4820a161c2715f5935e49f9(ImageList cb432504b199e4f033ce699f2c6b12683)" />
+<Entry OldName="ColorPicker.ImageComboBox.OnDrawItem(DrawItemEventArgs ea)" NewName="A.ca3c7a415bc98f246c4f83eee385dd2e7.OnDrawItem(DrawItemEventArgs ea)" />
+<Entry OldName="ColorPicker.ComboBoxExItem..ctor()" NewName="A.cac5af07ef0f26ed670bddab5483da553..ctor()" />
+<Entry OldName="ColorPicker.ComboBoxExItem..ctor(String text)" NewName="A.cac5af07ef0f26ed670bddab5483da553..ctor(String c838c7e1a5f5aaaf8ef2d8aa04854886b)" />
+<Entry OldName="ColorPicker.ComboBoxExItem..ctor(String text, Int32 imageIndex)" NewName="A.cac5af07ef0f26ed670bddab5483da553..ctor(String c838c7e1a5f5aaaf8ef2d8aa04854886b, Int32 c67ddc8606bfc7cc34c92d0a09663d830)" />
+<Entry OldName="ColorPicker.ComboBoxExItem.get_Text()" NewName="A.cac5af07ef0f26ed670bddab5483da553.get_c6d5e2d87ca9688190df2cb2ea7028f3f()" />
+<Entry OldName="ColorPicker.ComboBoxExItem.set_Text(String value)" NewName="A.cac5af07ef0f26ed670bddab5483da553.set_c6d5e2d87ca9688190df2cb2ea7028f3f(String cb432504b199e4f033ce699f2c6b12683)" />
+<Entry OldName="ColorPicker.ComboBoxExItem.get_ImageIndex()" NewName="A.cac5af07ef0f26ed670bddab5483da553.get_c0434e0521d8174711e34218eeb54624a()" />
+<Entry OldName="ColorPicker.ComboBoxExItem.set_ImageIndex(Int32 value)" NewName="A.cac5af07ef0f26ed670bddab5483da553.set_c0434e0521d8174711e34218eeb54624a(Int32 cb432504b199e4f033ce699f2c6b12683)" />
+<Entry OldName="ColorPicker.ComboBoxExItem.ToString()" NewName="A.cac5af07ef0f26ed670bddab5483da553.ToString()" />
+<Entry OldName="ColorPicker.InterceptKeys..ctor()" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd..ctor()" />
+<Entry OldName="ColorPicker.InterceptKeys..cctor()" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd..cctor()" />
+<Entry OldName="ColorPicker.InterceptKeys.SetKeyboardState(Byte[] lpKeyState)" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c608423854063519ad6e5b31951cb0514(Byte[] c6195f87b1eddc65d9de48eb4e37c1cce)" />
+<Entry OldName="ColorPicker.InterceptKeys.keybd_event(Byte bVk, Byte bScan, UInt32 dwFlags, UIntPtr dwExtraInfo)" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.ceda1dc6fa4e4f1bd678d59006d468fcb(Byte c4b0dde66767a7602c2ac41493dc868d3, Byte c5e46c5c54750913415b393dd96b7c559, UInt32 c457e6d5b29b5caee78245c7b7f0d7c89, UIntPtr cda94e7a5404816868cedc270371fad38)" />
+<Entry OldName="ColorPicker.InterceptKeys.GetActiveWindow()" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c16e2caa2898fa5856215410526272cbb()" />
+<Entry OldName="ColorPicker.InterceptKeys.SendMessage(Int32 hWnd, UInt32 Msg, Int32 wParam, Int32 lParam)" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c531332299048393de0fb37bc48ceffec(Int32 cd5244725b59aeaaeee9bd2785895e33a, UInt32 cc0d83398219b8bcd12be3a109300b7f6, Int32 c647b07e078c6e5b16c288a2918b295d3, Int32 cf9c3d3b44cf85cafc44db22ee7ca6e20)" />
+<Entry OldName="ColorPicker.InterceptKeys.HookKeys()" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.ca70c1b1ff3e88dc4af51adefed3689bf()" />
+<Entry OldName="ColorPicker.InterceptKeys.UnHookAll()" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c7b728bec75eaaad80cd42f510e857b7b()" />
+<Entry OldName="ColorPicker.InterceptKeys.SetHook(LowLevelKeyboardProc proc)" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.cc50264b8e876273e0bc7377a5d28224f(ce81369df71c7e6d51492a6275c0c055b ca98beeedb3e033cdb2def9fb90e01cd0)" />
+<Entry OldName="ColorPicker.InterceptKeys.SendNumLock()" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c6be7d802a0c215fed1307121ea849fea()" />
+<Entry OldName="ColorPicker.InterceptKeys.HookCallback(Int32 nCode, IntPtr wParam, KBDLLHOOKSTRUCT&amp; lParamRef)" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.cfab132c6e9536f44ac9d0460d19d58e4(Int32 cb218832b0c386b47bd0199dee7edada1, IntPtr c647b07e078c6e5b16c288a2918b295d3, c7b57777f255f47895470b8ba9b8679e0&amp; c2582953cab87b8ddfde43a8bf56b6728)" />
+<Entry OldName="ColorPicker.InterceptKeys.SetWindowsHookEx(Int32 idHook, LowLevelKeyboardProc lpfn, IntPtr hMod, UInt32 dwThreadId)" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.cc950177ff965d0d889d992129a418536(Int32 cd0db4c1f64a7b89268f1b853b6c36002, ce81369df71c7e6d51492a6275c0c055b c587615681a7dbc15d65645b101b25183, IntPtr cf09faca35ffe2509a6fe9549511b0f42, UInt32 c4efc6f5713088949fcce25deae1fa7ff)" />
+<Entry OldName="ColorPicker.InterceptKeys.UnhookWindowsHookEx(IntPtr hhk)" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.cf69ae17a090af353b9187beef8a50c8a(IntPtr cab888e4e1a3db3a8091a583694457e5f)" />
+<Entry OldName="ColorPicker.InterceptKeys.CallNextHookEx(IntPtr hhk, Int32 nCode, IntPtr wParam, KBDLLHOOKSTRUCT&amp; lParamRef)" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.c45765f27af062b38059ba789d9aa0408(IntPtr cab888e4e1a3db3a8091a583694457e5f, Int32 cb218832b0c386b47bd0199dee7edada1, IntPtr c647b07e078c6e5b16c288a2918b295d3, c7b57777f255f47895470b8ba9b8679e0&amp; c2582953cab87b8ddfde43a8bf56b6728)" />
+<Entry OldName="ColorPicker.InterceptKeys.GetModuleHandle(String lpModuleName)" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.cf89cc63dcda8e71f7c893be6a4ef2c5f(String c7d58c8f465ab2d3fec07abb94be5e723)" />
+<Entry OldName="ColorPicker.Module..ctor()" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263..ctor()" />
+<Entry OldName="ColorPicker.Module..cctor()" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263..cctor()" />
+<Entry OldName="ColorPicker.Module.IsWordDocument(String filepath)" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.ccaffab1ee8a8fa38c8c7bca078319705(String c6e40c32b275e20927d8575080169350a)" />
+<Entry OldName="ColorPicker.Module.get_TempFolder()" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.get_c941ba675baecf1b1122d10e703d06ab1()" />
+<Entry OldName="ColorPicker.Module.SendMessage(IntPtr hWnd, Int32 wMsg, Int32 wParam, Int32 lParam)" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c531332299048393de0fb37bc48ceffec(IntPtr cd5244725b59aeaaeee9bd2785895e33a, Int32 cd05ed76cf9cdce048b51aaaa47e06fc5, Int32 c647b07e078c6e5b16c288a2918b295d3, Int32 cf9c3d3b44cf85cafc44db22ee7ca6e20)" />
+<Entry OldName="ColorPicker.Module.LockWindowUpdate(IntPtr hWndLock)" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.cd723d7cb9cfda7e247d198d289034731(IntPtr cb3020fe87209abaff44a779493755415)" />
+<Entry OldName="ColorPicker.Module.WaitNMSeconds(Int32 mseconds)" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.cb3208ab2202785551bfa1bab824cff11(Int32 c8046e6591c6bfb7f15c378d7ea04f128)" />
+<Entry OldName="ColorPicker.Module.IsLegalFilename(String name)" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c0318bebd37a1486ca10df31a496ab95b(String c94fb929fc7036b6384c0663bccf0d58c)" />
+<Entry OldName="ColorPicker.Module.GetRelativePath(String mainDirPath, String absoluteFilePath)" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c5bfa7103733af3a91e037cc448c1992f(String cf4a87e172a832742e2982e8b4fa7806d, String c05175c9e2627d8021ec32b251c3bee1e)" />
+<Entry OldName="ColorPicker.Module.ShowMessage(String msg)" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c199aa4d5f4fc0bc7e277a43790a870d6(String c6538060d6e99a1332baf14a06eb38fb0)" />
+<Entry OldName="ColorPicker.Module.ShowQuestionDialog(String msg, String caption)" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c4fa2139311be30ec3b6c5017480860f4(String c6538060d6e99a1332baf14a06eb38fb0, String ce3ee0fd1f0efb54a1305b68bfa3a3de9)" />
+<Entry OldName="ColorPicker.Module.ShowError(Exception ex)" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c15fab9d75024d1fb87f93d06be8c397e(Exception ca7b73f9b9aa45fd641f37a5df7479d41)" />
+<Entry OldName="ColorPicker.Module.ShowError(String msg)" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c15fab9d75024d1fb87f93d06be8c397e(String c6538060d6e99a1332baf14a06eb38fb0)" />
+<Entry OldName="ColorPicker.Module.ShowError(String msg, Exception ex)" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c15fab9d75024d1fb87f93d06be8c397e(String c6538060d6e99a1332baf14a06eb38fb0, Exception ca7b73f9b9aa45fd641f37a5df7479d41)" />
+<Entry OldName="ColorPicker.Module.ShowError(String msg, String exstr)" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c15fab9d75024d1fb87f93d06be8c397e(String c6538060d6e99a1332baf14a06eb38fb0, String c458658a03d9eaf99e804bd565bbd713b)" />
+<Entry OldName="ColorPicker.Module.CurrentDomain_ProcessExit(Object sender, EventArgs e)" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.ca5f449098e4ad3ac6d6ef37f5ec8d7e9(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.Module.ShowQuestionDialogYesFocus(String msg, String caption)" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c1678799c8bf299fd85d43177cad647cf(String c6538060d6e99a1332baf14a06eb38fb0, String ce3ee0fd1f0efb54a1305b68bfa3a3de9)" />
+<Entry OldName="ColorPicker.Module.IsAcceptableMediaInput(String filepath)" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.cdd7f3f9dd8c57c9c8a4f2177779729f5(String c6e40c32b275e20927d8575080169350a)" />
+<Entry OldName="ColorPicker.Module.get_Modex64()" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.get_c60b75bb78540e278410298583b7ce355()" />
+<Entry OldName="ColorPicker.Module.DownloadPage(String uri)" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c5507937eab145d96efc3b93027078438(String c16374f3e5c64a29060b469f6a55855d6)" />
+<Entry OldName="ColorPicker.Module.HexConverter(Color c)" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c1863ca501dd72f92879d11dff493618c(Color c96b66ed51828be587b477205ce4872a5)" />
+<Entry OldName="ColorPicker.Module.DecimalToString(Decimal dec)" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c96a7b03fbf6c3b9a6641535667926c99(Decimal c382f939a66cbe29fef911fa1cf92bfa5)" />
+<Entry OldName="ColorPicker.Module.DecimalToString(Decimal dec, Int32 decimal_places)" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c96a7b03fbf6c3b9a6641535667926c99(Decimal c382f939a66cbe29fef911fa1cf92bfa5, Int32 cf1fbbb6c93afecbd31cbb49bc1b0c4ec)" />
+<Entry OldName="ColorPicker.Module.StringToDecimal(String str)" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.c6082d6149c6d74c540960663411bbef8(String c8bc2f13f9ee35cbfffa3ad995a35a984)" />
+<Entry OldName="ColorPicker.Module.get_IsWindows64Bit()" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263.get_cda0fb36c48ec34d58332bad537e223af()" />
+<Entry OldName="ColorPicker.NiceLine.InitializeComponent()" NewName="ColorPicker.NiceLine.c2543a495c946c25a9ad91d6e5aa28f47()" />
+<Entry OldName="ColorPicker.picPalette.picPalette_Click(Object sender, EventArgs e)" NewName="ColorPicker.picPalette.cf4487cbffb2cf3977827f97383a1349a(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.picPalette.cmsPalette_Opening(Object sender, CancelEventArgs e)" NewName="ColorPicker.picPalette.c654a3965762d712373a812492f4a1208(Object cec212f2f42671d3be048e956a6148507, CancelEventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.picPalette.copyAllToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ColorPicker.picPalette.c083c226c93d314d2db617b3d9116d07c(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.picPalette.copyHexToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ColorPicker.picPalette.c7192e13a4c20aeff6c74ab3fe5389efa(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.picPalette.copyHSLToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ColorPicker.picPalette.caec09fb4c3eef86d3dd47e0c9b0a56b3(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.picPalette.copyRGBToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ColorPicker.picPalette.c7cd7789a0ad0b1cb50723a1532f46844(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.picPalette.clearToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ColorPicker.picPalette.c1ac4976c07f22561c098ceba785e477b(Object cec212f2f42671d3be048e956a6148507, EventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.picPalette.picPalette_MouseDown(Object sender, MouseEventArgs e)" NewName="ColorPicker.picPalette.cccaf840d54a00070ae8b4c9455ce6144(Object cec212f2f42671d3be048e956a6148507, MouseEventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.picPalette.InitializeComponent()" NewName="ColorPicker.picPalette.c2543a495c946c25a9ad91d6e5aa28f47()" />
+<Entry OldName="ColorPicker.Program.Main(String[] args)" NewName="A.c0870c51310d747d69f6073ed954ff472.cd3e9d0a18205f278adb9fb68006145dc(String[] c09d0c8af1e39adfc0da1ba77e36be3bc)" />
+<Entry OldName="ColorPicker.ResFlags..ctor()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66..ctor()" />
+<Entry OldName="ColorPicker.ResFlags.get_ResourceManager()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_ResourceManager()" />
+<Entry OldName="ColorPicker.ResFlags.get_Culture()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_Culture()" />
+<Entry OldName="ColorPicker.ResFlags.set_Culture(CultureInfo value)" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.set_Culture(CultureInfo value)" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_albania()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_albania()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_belarus()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_belarus()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_bulgaria()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_bulgaria()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_china()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_china()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_croatia()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_croatia()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_czech_republic()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_czech_republic()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_denmark()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_denmark()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_estonia()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_estonia()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_finland()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_finland()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_france()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_france()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_georgia()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_georgia()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_germany()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_germany()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_great_britain()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_great_britain()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_greece()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_greece()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_hungary()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_hungary()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_iceland()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_iceland()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_india()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_india()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_indonesia()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_indonesia()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_iran()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_iran()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_ireland()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_ireland()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_israel()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_israel()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_italy()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_italy()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_japan()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_japan()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_kenya()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_kenya()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_latvia()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_latvia()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_lithuania()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_lithuania()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_netherlands()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_netherlands()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_norway()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_norway()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_pakistan()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_pakistan()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_philippines()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_philippines()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_poland()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_poland()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_portugal()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_portugal()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_romania()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_romania()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_russia()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_russia()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_saudi_arabia()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_saudi_arabia()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_serbia_montenegro()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_serbia_montenegro()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_slovakia()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_slovakia()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_slovenia()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_slovenia()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_south_africa()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_south_africa()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_south_korea()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_south_korea()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_spain()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_spain()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_sweden()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_sweden()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_taiwan()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_taiwan()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_thailand()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_thailand()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_turkey()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_turkey()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_ukraine()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_ukraine()" />
+<Entry OldName="ColorPicker.ResFlags.get_flag_vietnam()" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66.get_flag_vietnam()" />
+<Entry OldName="ColorPicker.ResTranslate..ctor()" NewName="A.c697527457c97fb25b97fdbcc2d7c170d..ctor()" />
+<Entry OldName="ColorPicker.ResTranslate.get_ResourceManager()" NewName="A.c697527457c97fb25b97fdbcc2d7c170d.get_ResourceManager()" />
+<Entry OldName="ColorPicker.ResTranslate.get_Culture()" NewName="A.c697527457c97fb25b97fdbcc2d7c170d.get_Culture()" />
+<Entry OldName="ColorPicker.ResTranslate.set_Culture(CultureInfo value)" NewName="A.c697527457c97fb25b97fdbcc2d7c170d.set_Culture(CultureInfo value)" />
+<Entry OldName="ColorPicker.ResTranslate.get_A_new_version_has_been_released__Press_the_OK_button_to_download_the_new_version()" NewName="A.c697527457c97fb25b97fdbcc2d7c170d.get_A_new_version_has_been_released__Press_the_OK_button_to_download_the_new_version()" />
+<Entry OldName="ColorPicker.ResTranslate.get_A_new_version_has_been_released__Would_you_like_to_download_it_now__()" NewName="A.c697527457c97fb25b97fdbcc2d7c170d.get_A_new_version_has_been_released__Would_you_like_to_download_it_now__()" />
+<Entry OldName="ColorPicker.ResTranslate.get_An_error_occured__()" NewName="A.c697527457c97fb25b97fdbcc2d7c170d.get_An_error_occured__()" />
+<Entry OldName="ColorPicker.ResTranslate.get_Change_PDF_Properties()" NewName="A.c697527457c97fb25b97fdbcc2d7c170d.get_Change_PDF_Properties()" />
+<Entry OldName="ColorPicker.ResTranslate.get_Download_new_version__()" NewName="A.c697527457c97fb25b97fdbcc2d7c170d.get_Download_new_version__()" />
+<Entry OldName="ColorPicker.ResTranslate.get_Error__Could_not_run_new_Setup_File__()" NewName="A.c697527457c97fb25b97fdbcc2d7c170d.get_Error__Could_not_run_new_Setup_File__()" />
+<Entry OldName="ColorPicker.ResTranslate.get_Error_Could_not_change_Language__()" NewName="A.c697527457c97fb25b97fdbcc2d7c170d.get_Error_Could_not_change_Language__()" />
+<Entry OldName="ColorPicker.ResTranslate.get_Error_could_not_read_Registry__()" NewName="A.c697527457c97fb25b97fdbcc2d7c170d.get_Error_could_not_read_Registry__()" />
+<Entry OldName="ColorPicker.ResTranslate.get_Great_application_to_combine__()" NewName="A.c697527457c97fb25b97fdbcc2d7c170d.get_Great_application_to_combine__()" />
+<Entry OldName="ColorPicker.ResTranslate.get_It_is_necessary_to_upgrade_to_the_latest_version_of_the_application__Press_the_OK_button_to_download_the_new_version()" NewName="A.c697527457c97fb25b97fdbcc2d7c170d.get_It_is_necessary_to_upgrade_to_the_latest_version_of_the_application__Press_the_OK_button_to_download_the_new_version()" />
+<Entry OldName="ColorPicker.ResTranslate.get_The_application_will_now_exit_and_run_the_updated_setup_file()" NewName="A.c697527457c97fb25b97fdbcc2d7c170d.get_The_application_will_now_exit_and_run_the_updated_setup_file()" />
+<Entry OldName="ColorPicker.ResTranslate.get_This_is_the_latest_version__()" NewName="A.c697527457c97fb25b97fdbcc2d7c170d.get_This_is_the_latest_version__()" />
+<Entry OldName="ColorPicker.ResTranslate.get_Unspecified_Error()" NewName="A.c697527457c97fb25b97fdbcc2d7c170d.get_Unspecified_Error()" />
+<Entry OldName="ColorPicker.ResTranslate.get_WM_KEYDOWN_OR_WM_KEYUP()" NewName="A.c697527457c97fb25b97fdbcc2d7c170d.get_WM_KEYDOWN_OR_WM_KEYUP()" />
+<Entry OldName="ColorPicker.TranslateHelper..ctor()" NewName="A.cd91077096eeca236f50b9695b4e1a9f3..ctor()" />
+<Entry OldName="ColorPicker.TranslateHelper..cctor()" NewName="A.cd91077096eeca236f50b9695b4e1a9f3..cctor()" />
+<Entry OldName="ColorPicker.TranslateHelper.Translate(String str)" NewName="A.cd91077096eeca236f50b9695b4e1a9f3.c7bd6daa10cffc01939b3c3c101ca7481(String c8bc2f13f9ee35cbfffa3ad995a35a984)" />
+<Entry OldName="ColorPicker.ucTextProgressBar.InitializeComponent()" NewName="ColorPicker.ucTextProgressBar.c2543a495c946c25a9ad91d6e5aa28f47()" />
+<Entry OldName="ColorPicker.UpdateHelper.bwCheckVersion_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="ColorPicker.UpdateHelper.c55bcc5b50845bd03e6a0590a34dd6394(Object cec212f2f42671d3be048e956a6148507, ProgressChangedEventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.UpdateHelper.bwCheckVersion_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="ColorPicker.UpdateHelper.cecf5e31a6e895dff75da4c3028b25d01(Object cec212f2f42671d3be048e956a6148507, RunWorkerCompletedEventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.UpdateHelper.bwCheckVersion_DoWork(Object sender, DoWorkEventArgs e)" NewName="ColorPicker.UpdateHelper.c6a8f57a8429bf361ad16cb45f5fc8c4c(Object cec212f2f42671d3be048e956a6148507, DoWorkEventArgs c56e2dd23f0e9dc08e58310c6fa6f1715)" />
+<Entry OldName="ColorPicker.Properties.Resources..ctor()" NewName="A.c7521dca9c02eddc922273214782d8a47..ctor()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_ResourceManager()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_ResourceManager()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_Culture()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_Culture()" />
+<Entry OldName="ColorPicker.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c7521dca9c02eddc922273214782d8a47.set_Culture(CultureInfo value)" />
+<Entry OldName="ColorPicker.Properties.Resources.get__4dots_logo_official()" NewName="A.c7521dca9c02eddc922273214782d8a47.get__4dots_logo_official()" />
+<Entry OldName="ColorPicker.Properties.Resources.get__4dots_logo_official_icon()" NewName="A.c7521dca9c02eddc922273214782d8a47.get__4dots_logo_official_icon()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_about()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_about()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_add()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_add()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_add1()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_add1()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_arrow_down_green()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_arrow_down_green()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_arrow_left_blue()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_arrow_left_blue()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_arrow_right_blue()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_arrow_right_blue()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_arrow_up_green()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_arrow_up_green()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_brush2()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_brush2()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_brush4()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_brush4()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_bullet_ball_glass_blue()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_bullet_ball_glass_blue()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_bullet_ball_glass_blue_16()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_bullet_ball_glass_blue_16()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_bullet_ball_glass_green()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_bullet_ball_glass_green()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_bullet_ball_glass_red()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_bullet_ball_glass_red()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_bullet_ball_glass_yellow()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_bullet_ball_glass_yellow()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_cart_icon_b_24()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_cart_icon_b_24()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_check()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_check()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_copy()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_copy()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_cut()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_cut()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_delete()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_delete()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_delete1()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_delete1()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_disk_blue()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_disk_blue()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_document_into()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_document_into()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_document_preferences()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_document_preferences()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_earth()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_earth()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_edit()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_edit()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_exit()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_exit()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_exit1()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_exit1()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_facebook_24()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_facebook_24()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_facebook_32()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_facebook_32()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_flash()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_flash()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_flash1()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_flash1()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_folder()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_folder()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_folder_add()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_folder_add()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_folder1()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_folder1()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_googleplus_24()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_googleplus_24()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_help2()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_help2()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_import1()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_import1()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_information()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_information()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_key1()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_key1()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_linkedin_24()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_linkedin_24()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_mail()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_mail()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_media_pause()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_media_pause()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_media_stop()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_media_stop()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_navigate_beginning()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_navigate_beginning()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_navigate_end()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_navigate_end()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_palette2()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_palette2()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_preferences()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_preferences()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_twitter_24()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_twitter_24()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_twitter_32()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_twitter_32()" />
+<Entry OldName="ColorPicker.Properties.Resources.get_warning()" NewName="A.c7521dca9c02eddc922273214782d8a47.get_warning()" />
+<Entry OldName="ColorPicker.InterceptKeys.LowLevelKeyboardProc..ctor(Object object, IntPtr method)" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.ce81369df71c7e6d51492a6275c0c055b..ctor(Object object, IntPtr method)" />
+<Entry OldName="ColorPicker.InterceptKeys.LowLevelKeyboardProc.Invoke(Int32 nCode, IntPtr wParam, KBDLLHOOKSTRUCT&amp; lParam)" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.ce81369df71c7e6d51492a6275c0c055b.Invoke(Int32 nCode, IntPtr wParam, c7b57777f255f47895470b8ba9b8679e0&amp; lParam)" />
+<Entry OldName="ColorPicker.InterceptKeys.LowLevelKeyboardProc.BeginInvoke(Int32 nCode, IntPtr wParam, KBDLLHOOKSTRUCT&amp; lParam, AsyncCallback callback, Object object)" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.ce81369df71c7e6d51492a6275c0c055b.BeginInvoke(Int32 nCode, IntPtr wParam, c7b57777f255f47895470b8ba9b8679e0&amp; lParam, AsyncCallback callback, Object object)" />
+<Entry OldName="ColorPicker.InterceptKeys.LowLevelKeyboardProc.EndInvoke(KBDLLHOOKSTRUCT&amp; lParam, IAsyncResult result)" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd.ce81369df71c7e6d51492a6275c0c055b.EndInvoke(c7b57777f255f47895470b8ba9b8679e0&amp; lParam, IAsyncResult result)" />
+<Entry OldName="ColorPicker.ExceptionHandlersHelper" NewName="A.ccbd912e11c40d60d222fedceca867c2e" />
+<Entry OldName="ColorPicker.frmMain+IDC_STANDARD_CURSORS" NewName="ColorPicker.frmMain+c933ffff4581f91ea98c640060159ce0c" />
+<Entry OldName="ColorPicker.ImageComboBox" NewName="A.ca3c7a415bc98f246c4f83eee385dd2e7" />
+<Entry OldName="ColorPicker.ComboBoxExItem" NewName="A.cac5af07ef0f26ed670bddab5483da553" />
+<Entry OldName="ColorPicker.InterceptKeys+KBDLLHOOKSTRUCT" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd+c7b57777f255f47895470b8ba9b8679e0" />
+<Entry OldName="ColorPicker.InterceptKeys+LowLevelKeyboardProc" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd+ce81369df71c7e6d51492a6275c0c055b" />
+<Entry OldName="ColorPicker.InterceptKeys" NewName="A.c4b6d326c1d251de36e44cdad540bc9fd" />
+<Entry OldName="ColorPicker.Module" NewName="A.ce43d0852f026b4c4dc008c9e88d1c263" />
+<Entry OldName="ColorPicker.Program" NewName="A.c0870c51310d747d69f6073ed954ff472" />
+<Entry OldName="ColorPicker.ResFlags" NewName="A.cb1c5a0a435b46dff5e2822f8a10dcb66" />
+<Entry OldName="ColorPicker.ResTranslate" NewName="A.c697527457c97fb25b97fdbcc2d7c170d" />
+<Entry OldName="ColorPicker.TranslateHelper" NewName="A.cd91077096eeca236f50b9695b4e1a9f3" />
+<Entry OldName="ColorPicker.Properties.Resources" NewName="A.c7521dca9c02eddc922273214782d8a47" />
+<Assembly Name="ColorPicker"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="ColorPicker.CustomForm" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Method Token="100663300" Name="CustomForm_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663301" Name="OnLoad" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663302" Name="CustomForm_KeyPress" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663303" Name="CustomForm_KeyDown" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663304" Name="CustomForm_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663305" Name="OnActivated" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663306" Name="ResizeControls" Variables="this;V_0;k;V_2;k;left;right;top;bottom;height;V_9;j;V_11;V_12;V_13;chk;V_15;chk;V_17;chk;V_19;V_20;" ParamCnt="1" />
+<Method Token="100663307" Name="ResizeChildControls" Variables="this;co;k;V_1;k;left;right;top;bottom;height;V_8;j;V_10;V_11;V_12;chk;V_14;chk;V_16;chk;V_18;V_19;" ParamCnt="2" />
+<Field Token="67108865" Name="InstanceCustomForm" />
+<Field Token="67108866" Name="InLoading" />
+<Field Token="67108867" Name="tooltip" />
+<Type Token="33554436" Name="ColorPicker.ExceptionHandlersHelper" />
+<Method Token="100663309" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663310" Name="AddUnhandledExceptionHandlers" Variables="" ParamCnt="0" />
+<Method Token="100663311" Name="myExceptionHandler" Variables="sender;e;ex;" ParamCnt="2" />
+<Method Token="100663312" Name="myThreadExceptionHandler" Variables="sender;e;" ParamCnt="2" />
+<Type Token="33554437" Name="ColorPicker.frmAbout" />
+<Method Token="100663313" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663314" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663315" Name="frmAbout_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663316" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663317" Name="linkLabel1_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663318" Name="linkLabel2_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663319" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663320" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108868" Name="lblf" />
+<Field Token="67108869" Name="bufluf" />
+<Field Token="67108870" Name="lstbufluf" />
+<Field Token="67108871" Name="LDT" />
+<Field Token="67108872" Name="components" />
+<Field Token="67108873" Name="lblAbout" />
+<Field Token="67108874" Name="btnClose" />
+<Field Token="67108875" Name="pictureBox1" />
+<Field Token="67108876" Name="linkLabel1" />
+<Field Token="67108877" Name="label1" />
+<Field Token="67108878" Name="label2" />
+<Field Token="67108879" Name="linkLabel2" />
+<Field Token="67108880" Name="niceLine1" />
+<Field Token="67108881" Name="niceLine3" />
+<Field Token="67108882" Name="label3" />
+<Field Token="67108883" Name="ullProductWebpage" />
+<Field Token="67108884" Name="lblRegistered" />
+<Field Token="67108885" Name="niceLine4" />
+<Type Token="33554439" Name="ColorPicker.frmDownloadUpdate" />
+<Method Token="100663327" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663328" Name="get_DownloadFile" Variables="this;V_0;spos;file;tempdir;V_4;" ParamCnt="1" />
+<Method Token="100663329" Name="get_DownloadURL" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663330" Name="frmDownloadUpdate_Load" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663331" Name="client_DownloadFileCompleted" Variables="this;sender;e;V_0;ex;" ParamCnt="3" />
+<Method Token="100663332" Name="client_DownloadProgressChanged" Variables="this;sender;e;ukb;umb;V_2;" ParamCnt="3" />
+<Method Token="100663333" Name="GetEXEDownloadURL" Variables="this;durl;V_1;spos;program;V_4;V_5;" ParamCnt="1" />
+<Method Token="100663334" Name="btnCancelDownload_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663335" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663336" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108887" Name="_DownloadFile" />
+<Field Token="67108888" Name="client" />
+<Field Token="67108889" Name="Cancelled" />
+<Field Token="67108890" Name="components" />
+<Field Token="67108891" Name="pgBar" />
+<Field Token="67108892" Name="btnCancelDownload" />
+<Field Token="67108893" Name="bwDownload" />
+<Field Token="67108894" Name="label1" />
+<Field Token="67108895" Name="lblTotalSize" />
+<Type Token="33554440" Name="ColorPicker.frmError" />
+<Method Token="100663337" Name=".ctor" Variables="this;lbl;txt;" ParamCnt="3" />
+<Method Token="100663338" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663339" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663340" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108896" Name="components" />
+<Field Token="67108897" Name="txtError" />
+<Field Token="67108898" Name="pictureBox1" />
+<Field Token="67108899" Name="lblError" />
+<Field Token="67108900" Name="btnClose" />
+<Type Token="33554441" Name="ColorPicker.frmLanguage" />
+<Method Token="100663341" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663342" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663343" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663344" Name="DownloadLanguage" Variables="langcode;lastversion;languagesdownloaded;resetlangdown;dllfile;downurl;lang_has_been_downloaded;V_3;V_4;V_5;V_6;pr;V_8;V_9;V_10;" ParamCnt="4" />
+<Method Token="100663345" Name="SetLanguages" Variables="" ParamCnt="0" />
+<Method Token="100663346" Name="frmLanguage_Load" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663347" Name="SetLanguage" Variables="lang;setlang;lastversion;languagesdownloaded;resetlangdown;keym;keym2;V_7;V_8;V_9;V_10;V_11;V_12;fl;V_14;V_15;V_16;ex;" ParamCnt="0" />
+<Method Token="100663348" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663349" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108901" Name="LangCodes" />
+<Field Token="67108902" Name="LangDesc" />
+<Field Token="67108903" Name="LangImg" />
+<Field Token="67108904" Name="SelectedLanguageCode" />
+<Field Token="67108905" Name="LangURL" />
+<Field Token="67108906" Name="RegKeyName" />
+<Field Token="67108907" Name="components" />
+<Field Token="67108908" Name="label1" />
+<Field Token="67108909" Name="cmbLanguage" />
+<Field Token="67108910" Name="btnOK" />
+<Type Token="33554442" Name="ColorPicker.frmMain" />
+<Method Token="100663350" Name=".ctor" Variables="this;hide;V_0;" ParamCnt="2" />
+<Method Token="100663351" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663352" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663353" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663354" Name="btnFromColor_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663355" Name="btnToColor_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663356" Name="frmReplaceColor_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663357" Name="tbReplaceColor_Scroll" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663358" Name="btnFromColorPick_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663359" Name="btnToColorPick_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663360" Name="lblFromColor_BackColorChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663361" Name="GetColorString" Variables="this;c;hue;saturation;value;hc;V_4;V_5;" ParamCnt="2" />
+<Method Token="100663362" Name="lblToColor_BackColorChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663363" Name="ColorToHSV" Variables="color;hue;saturation;value;max;min;" ParamCnt="4" />
+<Method Token="100663364" Name="btnCopyFrom_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663365" Name="btnToCopy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663366" Name="SetSystemCursor" Variables="hcur;id;" ParamCnt="2" />
+<Method Token="100663367" Name="LoadCursor" Variables="hInstance;lpCursorName;" ParamCnt="2" />
+<Method Token="100663368" Name="SystemParametersInfo" Variables="uiAction;uiParam;pvParam;fWinIni;" ParamCnt="4" />
+<Method Token="100663369" Name="CopyIcon" Variables="pcur;" ParamCnt="1" />
+<Method Token="100663370" Name="SetSystemCursorCross" Variables="this;" ParamCnt="1" />
+<Method Token="100663371" Name="SetSystemCursorNormal" Variables="this;" ParamCnt="1" />
+<Method Token="100663372" Name="SetupOnLoad" Variables="this;key;V_1;V_2;ex;" ParamCnt="1" />
+<Method Token="100663373" Name="SetPaletteColor" Variables="this;found;k;pic;V_3;V_4;V_5;pic;" ParamCnt="1" />
+<Method Token="100663374" Name="SetupPaletteColors" Variables="this;sz;k;pic;V_3;V_4;sr;sg;sb;r;g;b;V_11;V_12;V_13;" ParamCnt="1" />
+<Method Token="100663375" Name="AdjustSizeLocation" Variables="this;V_0;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663376" Name="SaveSizeLocation" Variables="this;" ParamCnt="1" />
+<Method Token="100663377" Name="AddLanguageMenuItems" Variables="this;k;ti;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663378" Name="tiLang_Click" Variables="this;sender;e;ti;langcode;k;til;V_4;V_5;k;til;V_8;V_9;" ParamCnt="3" />
+<Method Token="100663379" Name="ChangeLanguage" Variables="this;language_code;maximized;V_1;" ParamCnt="2" />
+<Method Token="100663380" Name="helpGuideToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663381" Name="pleaseDonateToolStripMenuItem1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663382" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663383" Name="tiHelpFeedback_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663384" Name="checkForNewVersionToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663385" Name="followUsOnTwitterToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663386" Name="visit4dotsSoftwareWebsiteToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663387" Name="aboutToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663388" Name="timPickColor_Tick" Variables="this;sender;e;x;y;width;V_3;V_4;g;" ParamCnt="3" />
+<Method Token="100663389" Name="picPickColor_Paint" Variables="this;sender;e;a;" ParamCnt="3" />
+<Method Token="100663390" Name="CopyAll" Variables="this;" ParamCnt="1" />
+<Method Token="100663391" Name="btnCopyHSL_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663392" Name="btnCopyHex_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663393" Name="frmMain_KeyPress" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663394" Name="SavePaletteColors" Variables="this;str;k;pic;V_3;V_4;V_5;V_6;" ParamCnt="1" />
+<Method Token="100663395" Name="frmMain_FormClosing" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663396" Name="exitToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663397" Name="ShowWindow" Variables="hWnd;nCmdShow;" ParamCnt="2" />
+<Method Token="100663398" Name="EnableWindow" Variables="hwnd;enabled;" ParamCnt="2" />
+<Method Token="100663399" Name="showToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663400" Name="frmMain_Resize" Variables="this;sender;e;V_0;V_1;V_2;" ParamCnt="3" />
+<Method Token="100663401" Name="runMinimizedAtWindowsStartupToolStripMenuItem_Click" Variables="this;sender;e;key;V_1;V_2;V_3;ex;V_5;" ParamCnt="3" />
+<Method Token="100663402" Name="minimizeToSystemTrayToolStripMenuItem_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663403" Name="minimizeToSystemTrayToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663404" Name="exitToolStripMenuItem1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663405" Name="paletteNumberOfColorsToolStripMenuItem_Click" Variables="this;sender;e;f;V_1;" ParamCnt="3" />
+<Method Token="100663406" Name="savePaletteAsPNGToolStripMenuItem_Click" Variables="this;sender;e;sfd;V_1;x;y;maxx;maxy;curx;cury;bmp;k;V_10;V_11;V_12;g;k;sb;V_16;V_17;V_18;" ParamCnt="3" />
+<Method Token="100663407" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663408" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108911" Name="Instance" />
+<Field Token="67108912" Name="forColorPickOnly" />
+<Field Token="67108913" Name="CROSS" />
+<Field Token="67108914" Name="NORMAL" />
+<Field Token="67108915" Name="IBEAM" />
+<Field Token="67108916" Name="InChangeLanguage" />
+<Field Token="67108917" Name="bmp1" />
+<Field Token="67108918" Name="InPaint" />
+<Field Token="67108919" Name="SW_SHOW" />
+<Field Token="67108920" Name="InShowing" />
+<Field Token="67108921" Name="components" />
+<Field Token="67108922" Name="lblFromDesc" />
+<Field Token="67108923" Name="btnOK" />
+<Field Token="67108924" Name="colorDialog1" />
+<Field Token="67108925" Name="lblColor" />
+<Field Token="67108926" Name="btnCopRGB" />
+<Field Token="67108927" Name="menuStrip1" />
+<Field Token="67108928" Name="txtRGB" />
+<Field Token="67108929" Name="picPickColor" />
+<Field Token="67108930" Name="label1" />
+<Field Token="67108931" Name="label2" />
+<Field Token="67108932" Name="txtHSL" />
+<Field Token="67108933" Name="btnCopyHSL" />
+<Field Token="67108934" Name="label3" />
+<Field Token="67108935" Name="txtHex" />
+<Field Token="67108936" Name="btnCopyHex" />
+<Field Token="67108937" Name="label4" />
+<Field Token="67108938" Name="timPickColor" />
+<Field Token="67108939" Name="notMain" />
+<Field Token="67108940" Name="cmsMain" />
+<Field Token="67108941" Name="showToolStripMenuItem" />
+<Field Token="67108942" Name="exitToolStripMenuItem" />
+<Field Token="67108943" Name="optionsToolStripMenuItem" />
+<Field Token="67108944" Name="runMinimizedAtWindowsStartupToolStripMenuItem" />
+<Field Token="67108945" Name="minimizeToSystemTrayToolStripMenuItem" />
+<Field Token="67108946" Name="fileToolStripMenuItem" />
+<Field Token="67108947" Name="exitToolStripMenuItem1" />
+<Field Token="67108948" Name="languageToolStripMenuItem1" />
+<Field Token="67108949" Name="languages1ToolStripMenuItem" />
+<Field Token="67108950" Name="languages2ToolStripMenuItem" />
+<Field Token="67108951" Name="helpToolStripMenuItem1" />
+<Field Token="67108952" Name="helpGuideToolStripMenuItem" />
+<Field Token="67108953" Name="pleaseDonateToolStripMenuItem1" />
+<Field Token="67108954" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem" />
+<Field Token="67108955" Name="tiHelpFeedback" />
+<Field Token="67108956" Name="checkForNewVersionToolStripMenuItem" />
+<Field Token="67108957" Name="toolStripMenuItem1" />
+<Field Token="67108958" Name="followUsOnTwitterToolStripMenuItem" />
+<Field Token="67108959" Name="visit4dotsSoftwareWebsiteToolStripMenuItem" />
+<Field Token="67108960" Name="aboutToolStripMenuItem" />
+<Field Token="67108961" Name="savePaletteAsPNGToolStripMenuItem" />
+<Field Token="67108962" Name="fplPalette" />
+<Field Token="67108963" Name="paletteNumberOfColorsToolStripMenuItem" />
+<Type Token="33554443" Name="ColorPicker.PicColorPictureBox" />
+<Method Token="100663409" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663410" Name="OnPaint" Variables="this;pe;V_0;width;cw;c;" ParamCnt="2" />
+<Type Token="33554444" Name="ColorPicker.frmPaletteColors" />
+<Method Token="100663411" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663412" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663413" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663414" Name="frmPaletteColors_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663415" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663416" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108964" Name="components" />
+<Field Token="67108965" Name="label1" />
+<Field Token="67108966" Name="nudNumber" />
+<Field Token="67108967" Name="btnCancel" />
+<Field Token="67108968" Name="btnOK" />
+<Type Token="33554445" Name="ColorPicker.HSLColor" />
+<Method Token="100663417" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663418" Name=".ctor" Variables="this;color;" ParamCnt="2" />
+<Method Token="100663419" Name=".ctor" Variables="this;red;green;blue;" ParamCnt="4" />
+<Method Token="100663420" Name=".ctor" Variables="this;hue;saturation;luminosity;" ParamCnt="4" />
+<Method Token="100663421" Name="get_Hue" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663422" Name="set_Hue" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663423" Name="get_Saturation" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663424" Name="set_Saturation" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663425" Name="get_Luminosity" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663426" Name="set_Luminosity" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663427" Name="CheckRange" Variables="this;value;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663428" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663429" Name="ToRGBString" Variables="this;color;V_1;" ParamCnt="1" />
+<Method Token="100663430" Name="op_Implicit" Variables="hslColor;r;g;b;V_3;V_4;temp2;temp1;V_7;" ParamCnt="1" />
+<Method Token="100663431" Name="GetColorComponent" Variables="temp1;temp2;temp3;V_0;V_1;V_2;V_3;" ParamCnt="3" />
+<Method Token="100663432" Name="MoveIntoRange" Variables="temp3;V_0;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663433" Name="GetTemp2" Variables="hslColor;temp2;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663434" Name="op_Implicit" Variables="color;hslColor;V_1;" ParamCnt="1" />
+<Method Token="100663435" Name="SetRGB" Variables="this;red;green;blue;hslColor;" ParamCnt="4" />
+<Field Token="67108969" Name="hue" />
+<Field Token="67108970" Name="saturation" />
+<Field Token="67108971" Name="luminosity" />
+<Field Token="67108972" Name="scale" />
+<Type Token="33554446" Name="ColorPicker.ImageComboBox" />
+<Method Token="100663436" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663437" Name="get_ImageList" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663438" Name="set_ImageList" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663439" Name="OnDrawItem" Variables="this;ea;item;imageSize;bounds;V_3;V_4;" ParamCnt="2" />
+<Field Token="67108973" Name="imageList" />
+<Type Token="33554447" Name="ColorPicker.ComboBoxExItem" />
+<Method Token="100663440" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663441" Name=".ctor" Variables="this;text;" ParamCnt="2" />
+<Method Token="100663442" Name=".ctor" Variables="this;text;imageIndex;" ParamCnt="3" />
+<Method Token="100663443" Name="get_Text" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663444" Name="set_Text" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663445" Name="get_ImageIndex" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663446" Name="set_ImageIndex" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663447" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67108974" Name="_text" />
+<Field Token="67108975" Name="_imageIndex" />
+<Type Token="33554448" Name="ColorPicker.InterceptKeys" />
+<Method Token="100663448" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663449" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663450" Name="SetKeyboardState" Variables="lpKeyState;" ParamCnt="1" />
+<Method Token="100663451" Name="keybd_event" Variables="bVk;bScan;dwFlags;dwExtraInfo;" ParamCnt="4" />
+<Method Token="100663452" Name="GetActiveWindow" Variables="" ParamCnt="0" />
+<Method Token="100663453" Name="SendMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663454" Name="HookKeys" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663455" Name="UnHookAll" Variables="" ParamCnt="0" />
+<Method Token="100663456" Name="SetHook" Variables="proc;curProcess;curModule;V_2;" ParamCnt="1" />
+<Method Token="100663457" Name="SendNumLock" Variables="" ParamCnt="0" />
+<Method Token="100663458" Name="HookCallback" Variables="nCode;wParam;lParamRef;vkCode;vkCode2;flags;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;vkCode3;V_16;V_17;V_18;V_19;V_20;V_21;V_22;V_23;V_24;V_25;V_26;V_27;" ParamCnt="3" />
+<Method Token="100663459" Name="SetWindowsHookEx" Variables="idHook;lpfn;hMod;dwThreadId;" ParamCnt="4" />
+<Method Token="100663460" Name="UnhookWindowsHookEx" Variables="hhk;" ParamCnt="1" />
+<Method Token="100663461" Name="CallNextHookEx" Variables="hhk;nCode;wParam;lParamRef;" ParamCnt="4" />
+<Method Token="100663462" Name="GetModuleHandle" Variables="lpModuleName;" ParamCnt="1" />
+<Field Token="67108976" Name="KEYEVENTF_EXTENDEDKEY" />
+<Field Token="67108977" Name="KEYEVENTF_KEYUP" />
+<Field Token="67108978" Name="NUMLOCK" />
+<Field Token="67108979" Name="CAPITAL" />
+<Field Token="67108980" Name="SCROLL" />
+<Field Token="67108981" Name="INSERT" />
+<Field Token="67108982" Name="WH_KEYBOARD_LL" />
+<Field Token="67108983" Name="WM_KEYDOWN" />
+<Field Token="67108984" Name="WM_KEYUP" />
+<Field Token="67108985" Name="WM_SYSKEYDOWN" />
+<Field Token="67108986" Name="WM_SYSKEYUP" />
+<Field Token="67108987" Name="_proc" />
+<Field Token="67108988" Name="InAddKeyMode" />
+<Field Token="67108989" Name="_hookID" />
+<Field Token="67108990" Name="bShift" />
+<Field Token="67108991" Name="bCtrl" />
+<Field Token="67108992" Name="bAlt" />
+<Field Token="67108993" Name="bAltGr" />
+<Field Token="67108994" Name="bLWin" />
+<Field Token="67108995" Name="bRWin" />
+<Field Token="67108996" Name="Hooked" />
+<Field Token="67108997" Name="HookedForAddKey" />
+<Field Token="67108998" Name="ShouldSendKeys" />
+<Field Token="67108999" Name="HookItems" />
+<Field Token="67109000" Name="bwHookCallbak" />
+<Field Token="67109001" Name="CheckSetHookTimer" />
+<Type Token="33554449" Name="ColorPicker.HookItem" />
+<Method Token="100663463" Name=".ctor" Variables="this;_nCode;_wParam;_lParam;" ParamCnt="4" />
+<Field Token="67109002" Name="nCode" />
+<Field Token="67109003" Name="wParam" />
+<Field Token="67109004" Name="lParam" />
+<Type Token="33554450" Name="ColorPicker.Module" />
+<Method Token="100663464" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663465" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663466" Name="IsWordDocument" Variables="filepath;ext;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663467" Name="get_TempFolder" Variables="path;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663468" Name="SendMessage" Variables="hWnd;wMsg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663469" Name="LockWindowUpdate" Variables="hWndLock;" ParamCnt="1" />
+<Method Token="100663470" Name="WaitNMSeconds" Variables="mseconds;_desired;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663471" Name="IsLegalFilename" Variables="name;fileInfo;V_1;" ParamCnt="1" />
+<Method Token="100663472" Name="GetRelativePath" Variables="mainDirPath;absoluteFilePath;firstPathParts;secondPathParts;sameCounter;newPath;i;V_5;V_6;V_7;V_8;i;V_10;V_11;V_12;V_13;i;V_15;" ParamCnt="2" />
+<Method Token="100663473" Name="ShowMessage" Variables="msg;V_0;" ParamCnt="1" />
+<Method Token="100663474" Name="ShowQuestionDialog" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663475" Name="ShowError" Variables="ex;" ParamCnt="1" />
+<Method Token="100663476" Name="ShowError" Variables="msg;V_0;f;" ParamCnt="1" />
+<Method Token="100663477" Name="ShowError" Variables="msg;ex;" ParamCnt="2" />
+<Method Token="100663478" Name="ShowError" Variables="msg;exstr;" ParamCnt="2" />
+<Method Token="100663479" Name="CurrentDomain_ProcessExit" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663480" Name="ShowQuestionDialogYesFocus" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663481" Name="IsAcceptableMediaInput" Variables="filepath;fi;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663482" Name="get_Modex64" Variables="V_0;V_1;V_2;V_3;V_4;" ParamCnt="0" />
+<Method Token="100663483" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
+<Method Token="100663484" Name="HexConverter" Variables="c;rtn;V_1;ex;V_3;" ParamCnt="1" />
+<Method Token="100663485" Name="DecimalToString" Variables="dec;V_0;" ParamCnt="1" />
+<Method Token="100663486" Name="DecimalToString" Variables="dec;decimal_places;format;V_1;k;V_3;V_4;" ParamCnt="2" />
+<Method Token="100663487" Name="StringToDecimal" Variables="str;epos;V_1;V_2;V_3;V_4;ihask;sintegral;integral_part;V_8;ihask;sintegral;integral_part;sdecimal;decimal_part;d10;ddecimal_part;ddec;dintegral_part;d;V_19;k;V_21;V_22;" ParamCnt="1" />
+<Method Token="100663488" Name="get_IsWindows64Bit" Variables="p;V_1;V_2;V_3;" ParamCnt="0" />
+<Field Token="67109005" Name="BlueForeColor" />
+<Field Token="67109006" Name="ApplicationName" />
+<Field Token="67109007" Name="Version" />
+<Field Token="67109008" Name="Ver" />
+<Field Token="67109009" Name="ShortApplicationTitle" />
+<Field Token="67109010" Name="ApplicationTitle" />
+<Field Token="67109011" Name="DownloadURL" />
+<Field Token="67109012" Name="HelpURL" />
+<Field Token="67109013" Name="ProductWebpageURL" />
+<Field Token="67109014" Name="BuyURL" />
+<Field Token="67109015" Name="VersionURL" />
+<Field Token="67109016" Name="TipText" />
+<Field Token="67109017" Name="GeneratedTemporaryFiles" />
+<Field Token="67109018" Name="OpenFilesFilter" />
+<Field Token="67109019" Name="OpenImagesFilter" />
+<Field Token="67109020" Name="AcceptableMediaInputPattern" />
+<Field Token="67109021" Name="AppDataDirectory" />
+<Field Token="67109022" Name="CurrentImagesDirectory" />
+<Field Token="67109023" Name="SelectedLanguage" />
+<Field Token="67109024" Name="args" />
+<Field Token="67109025" Name="IsCommandLine" />
+<Field Token="67109026" Name="IsFromWindowsExplorer" />
+<Field Token="67109027" Name="DoNotOverwriteFiles" />
+<Field Token="67109028" Name="AskBeforeOverwrite" />
+<Field Token="67109029" Name="LeaveSameDateTime" />
+<Field Token="67109030" Name="OutputFilepath" />
+<Field Token="67109031" Name="_Modex64" />
+<Type Token="33554452" Name="ColorPicker.NiceLine" />
+<Method Token="100663496" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663497" Name="get_Caption" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663498" Name="set_Caption" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663499" Name="get_CaptionMarginSpace" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663500" Name="set_CaptionMarginSpace" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663501" Name="get_CaptionPadding" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663502" Name="set_CaptionPadding" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663503" Name="get_LineVerticalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663504" Name="set_LineVerticalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663505" Name="get_CaptionOrizontalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663506" Name="set_CaptionOrizontalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663507" Name="Dispose" Variables="this;disposing;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663508" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663509" Name="OnPaint" Variables="this;e;ym;captionSizeF;captionLength;beforeCaption;afterCaption;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="2" />
+<Method Token="100663510" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663511" Name="OnFontChanged" Variables="this;e;" ParamCnt="2" />
+<Field Token="67109038" Name="components" />
+<Field Token="67109039" Name="_Caption" />
+<Field Token="67109040" Name="_CaptionMarginSpace" />
+<Field Token="67109041" Name="_CaptionPadding" />
+<Field Token="67109042" Name="_LineVerticalAlign" />
+<Field Token="67109043" Name="_CaptionOrizontalAlign" />
+<Type Token="33554453" Name="ColorPicker.LineVerticalAlign" />
+<Field Token="67109044" Name="value__" />
+<Field Token="67109045" Name="Top" />
+<Field Token="67109046" Name="Middle" />
+<Field Token="67109047" Name="Bottom" />
+<Type Token="33554454" Name="ColorPicker.CaptionOrizontalAlign" />
+<Field Token="67109048" Name="value__" />
+<Field Token="67109049" Name="Left" />
+<Field Token="67109050" Name="Center" />
+<Field Token="67109051" Name="Right" />
+<Type Token="33554455" Name="ColorPicker.picPalette" />
+<Method Token="100663512" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663513" Name="get_WasSet" Variables="this;" ParamCnt="1" />
+<Method Token="100663514" Name="set_WasSet" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663515" Name="OnPaint" Variables="this;pe;" ParamCnt="2" />
+<Method Token="100663516" Name="picPalette_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663517" Name="cmsPalette_Opening" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663518" Name="copyAllToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663519" Name="copyHexToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663520" Name="copyHSLToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663521" Name="copyRGBToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663522" Name="clearToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663523" Name="picPalette_MouseDown" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663524" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663525" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109052" Name="&lt;WasSet&gt;k__BackingField" />
+<Field Token="67109053" Name="components" />
+<Field Token="67109054" Name="cmsPalette" />
+<Field Token="67109055" Name="clearToolStripMenuItem" />
+<Field Token="67109056" Name="copyAllToolStripMenuItem" />
+<Field Token="67109057" Name="copyRGBToolStripMenuItem" />
+<Field Token="67109058" Name="copyHSLToolStripMenuItem" />
+<Field Token="67109059" Name="copyHexToolStripMenuItem" />
+<Type Token="33554456" Name="ColorPicker.Program" />
+<Method Token="100663526" Name="Main" Variables="args;hide;V_1;V_2;" ParamCnt="1" />
+<Type Token="33554457" Name="ColorPicker.ResFlags" />
+<Method Token="100663527" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663528" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663529" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663530" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663531" Name="get_flag_albania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663532" Name="get_flag_belarus" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663533" Name="get_flag_bulgaria" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663534" Name="get_flag_china" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663535" Name="get_flag_croatia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663536" Name="get_flag_czech_republic" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663537" Name="get_flag_denmark" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663538" Name="get_flag_estonia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663539" Name="get_flag_finland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663540" Name="get_flag_france" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663541" Name="get_flag_georgia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663542" Name="get_flag_germany" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663543" Name="get_flag_great_britain" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663544" Name="get_flag_greece" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663545" Name="get_flag_hungary" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663546" Name="get_flag_iceland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663547" Name="get_flag_india" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663548" Name="get_flag_indonesia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663549" Name="get_flag_iran" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663550" Name="get_flag_ireland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663551" Name="get_flag_israel" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663552" Name="get_flag_italy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663553" Name="get_flag_japan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663554" Name="get_flag_kenya" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663555" Name="get_flag_latvia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663556" Name="get_flag_lithuania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663557" Name="get_flag_netherlands" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663558" Name="get_flag_norway" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663559" Name="get_flag_pakistan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663560" Name="get_flag_philippines" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663561" Name="get_flag_poland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663562" Name="get_flag_portugal" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663563" Name="get_flag_romania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663564" Name="get_flag_russia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663565" Name="get_flag_saudi_arabia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663566" Name="get_flag_serbia_montenegro" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663567" Name="get_flag_slovakia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663568" Name="get_flag_slovenia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663569" Name="get_flag_south_africa" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663570" Name="get_flag_south_korea" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663571" Name="get_flag_spain" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663572" Name="get_flag_sweden" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663573" Name="get_flag_taiwan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663574" Name="get_flag_thailand" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663575" Name="get_flag_turkey" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663576" Name="get_flag_ukraine" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663577" Name="get_flag_vietnam" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109060" Name="resourceMan" />
+<Field Token="67109061" Name="resourceCulture" />
+<Type Token="33554458" Name="ColorPicker.ResTranslate" />
+<Method Token="100663578" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663579" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663580" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663581" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663582" Name="get_A_new_version_has_been_released__Press_the_OK_button_to_download_the_new_version" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663583" Name="get_A_new_version_has_been_released__Would_you_like_to_download_it_now__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663584" Name="get_An_error_occured__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663585" Name="get_Change_PDF_Properties" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663586" Name="get_Download_new_version__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663587" Name="get_Error__Could_not_run_new_Setup_File__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663588" Name="get_Error_Could_not_change_Language__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663589" Name="get_Error_could_not_read_Registry__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663590" Name="get_Great_application_to_combine__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663591" Name="get_It_is_necessary_to_upgrade_to_the_latest_version_of_the_application__Press_the_OK_button_to_download_the_new_version" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663592" Name="get_The_application_will_now_exit_and_run_the_updated_setup_file" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663593" Name="get_This_is_the_latest_version__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663594" Name="get_Unspecified_Error" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663595" Name="get_WM_KEYDOWN_OR_WM_KEYUP" Variables="V_0;" ParamCnt="0" />
+<Field Token="67109062" Name="resourceMan" />
+<Field Token="67109063" Name="resourceCulture" />
+<Type Token="33554459" Name="ColorPicker.TranslateHelper" />
+<Method Token="100663596" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663597" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663598" Name="Translate" Variables="str;V_0;cm;V_2;cm;trnstr;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="1" />
+<Field Token="67109064" Name="rm" />
+<Field Token="67109065" Name="rm2" />
+<Type Token="33554460" Name="ColorPicker.ucTextProgressBar" />
+<Method Token="100663599" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663600" Name="SetText" Variables="this;str;V_0;" ParamCnt="2" />
+<Method Token="100663601" Name="UpdatePercentage" Variables="this;curval;maxval;perc;" ParamCnt="1" />
+<Method Token="100663602" Name="zOnPaint" Variables="this;e;curval;maxval;perc;rangerect;font;brBack;V_6;fillBrush;sPoint;V_9;p;" ParamCnt="2" />
+<Method Token="100663603" Name="WndProc" Variables="this;m;V_0;V_1;graphics;font;textSize;" ParamCnt="2" />
+<Method Token="100663604" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663605" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109066" Name="lblText" />
+<Field Token="67109067" Name="WmPaint" />
+<Field Token="67109068" Name="components" />
+<Type Token="33554461" Name="ColorPicker.UpdateHelper" />
+<Method Token="100663606" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663607" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663608" Name="InitializeCheckVersionWeek" Variables="lastcheck;V_1;month;day;year;dtlast;V_6;V_7;V_8;" ParamCnt="0" />
+<Method Token="100663609" Name="InitializeCheckVersion" Variables="" ParamCnt="0" />
+<Method Token="100663610" Name="bwCheckVersion_ProgressChanged" Variables="sender;e;res;V_1;V_2;V_3;fdu;resq;V_6;fdu;" ParamCnt="2" />
+<Method Token="100663611" Name="bwCheckVersion_RunWorkerCompleted" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663612" Name="bwCheckVersion_DoWork" Variables="sender;e;res;" ParamCnt="2" />
+<Method Token="100663613" Name="CheckVersionBackground" Variables="onstart;res;str;V_3;V_4;V_5;epos;price;V_8;sr;line;found;epos;title;version;app;V_16;verdotpos;vermajor;verminor;curverepos;V_21;curver;dotpos;curmajor;curminor;V_26;V_27;V_28;V_29;V_30;V_31;V_32;V_33;V_34;" ParamCnt="0" />
+<Method Token="100663614" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
+<Method Token="100663615" Name="CheckVersion" Variables="onstart;str;V_1;sr;line;found;epos;title;version;app;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;" ParamCnt="1" />
+<Field Token="67109069" Name="bwCheckVersion" />
+<Type Token="33554462" Name="ColorPicker.CheckVersionResult" />
+<Method Token="100663616" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109070" Name="NewVersionReleased" />
+<Field Token="67109071" Name="ItIsNecessaryToUpdate" />
+<Field Token="67109072" Name="OutputMessage" />
+<Type Token="33554463" Name="ColorPicker.URLLinkLabel" />
+<Method Token="100663617" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663618" Name="OnClick" Variables="this;e;" ParamCnt="2" />
+<Type Token="33554464" Name="ColorPicker.Properties.Resources" />
+<Method Token="100663619" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663620" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663621" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663622" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663623" Name="get__4dots_logo_official" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663624" Name="get__4dots_logo_official_icon" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663625" Name="get_about" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663626" Name="get_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663627" Name="get_add1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663628" Name="get_arrow_down_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663629" Name="get_arrow_left_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663630" Name="get_arrow_right_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663631" Name="get_arrow_up_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663632" Name="get_brush2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663633" Name="get_brush4" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663634" Name="get_bullet_ball_glass_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663635" Name="get_bullet_ball_glass_blue_16" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663636" Name="get_bullet_ball_glass_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663637" Name="get_bullet_ball_glass_red" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663638" Name="get_bullet_ball_glass_yellow" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663639" Name="get_cart_icon_b_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663640" Name="get_check" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663641" Name="get_copy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663642" Name="get_cut" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663643" Name="get_delete" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663644" Name="get_delete1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663645" Name="get_disk_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663646" Name="get_document_into" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663647" Name="get_document_preferences" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663648" Name="get_earth" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663649" Name="get_edit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663650" Name="get_exit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663651" Name="get_exit1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663652" Name="get_facebook_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663653" Name="get_facebook_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663654" Name="get_flash" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663655" Name="get_flash1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663656" Name="get_folder" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663657" Name="get_folder_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663658" Name="get_folder1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663659" Name="get_googleplus_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663660" Name="get_help2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663661" Name="get_import1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663662" Name="get_information" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663663" Name="get_key1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663664" Name="get_linkedin_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663665" Name="get_mail" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663666" Name="get_media_pause" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663667" Name="get_media_stop" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663668" Name="get_navigate_beginning" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663669" Name="get_navigate_end" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663670" Name="get_palette2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663671" Name="get_preferences" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663672" Name="get_twitter_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663673" Name="get_twitter_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663674" Name="get_warning" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109073" Name="resourceMan" />
+<Field Token="67109074" Name="resourceCulture" />
+<Type Token="33554465" Name="ColorPicker.Properties.Settings" />
+<Method Token="100663675" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663676" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663677" Name="get_Default" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663678" Name="get_ReplaceColorFrom" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663679" Name="set_ReplaceColorFrom" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663680" Name="get_ReplaceColorTo" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663681" Name="set_ReplaceColorTo" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663682" Name="get_ReplaceColorThreshold" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663683" Name="set_ReplaceColorThreshold" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663684" Name="get_LastCheckVersion" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663685" Name="set_LastCheckVersion" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663686" Name="get_Left" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663687" Name="set_Left" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663688" Name="get_Top" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663689" Name="set_Top" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663690" Name="get_Language" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663691" Name="set_Language" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663692" Name="get_Price" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663693" Name="set_Price" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663694" Name="get_MinimizeSystemTray" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663695" Name="set_MinimizeSystemTray" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663696" Name="get_ColorNumber" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663697" Name="set_ColorNumber" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663698" Name="get_PaletteColors" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663699" Name="set_PaletteColors" Variables="this;value;" ParamCnt="2" />
+<Field Token="67109075" Name="defaultInstance" />
+<Type Token="33554466" Name="ColorPicker.frmMain/IDC_STANDARD_CURSORS" />
+<Field Token="67109076" Name="value__" />
+<Field Token="67109077" Name="IDC_ARROW" />
+<Field Token="67109078" Name="IDC_IBEAM" />
+<Field Token="67109079" Name="IDC_WAIT" />
+<Field Token="67109080" Name="IDC_CROSS" />
+<Field Token="67109081" Name="IDC_UPARROW" />
+<Field Token="67109082" Name="IDC_SIZE" />
+<Field Token="67109083" Name="IDC_ICON" />
+<Field Token="67109084" Name="IDC_SIZENWSE" />
+<Field Token="67109085" Name="IDC_SIZENESW" />
+<Field Token="67109086" Name="IDC_SIZEWE" />
+<Field Token="67109087" Name="IDC_SIZENS" />
+<Field Token="67109088" Name="IDC_SIZEALL" />
+<Field Token="67109089" Name="IDC_NO" />
+<Field Token="67109090" Name="IDC_APPSTARTING" />
+<Field Token="67109091" Name="IDC_HELP" />
+<Type Token="33554467" Name="ColorPicker.InterceptKeys/KBDLLHOOKSTRUCT" />
+<Field Token="67109092" Name="key" />
+<Field Token="67109093" Name="scanCode" />
+<Field Token="67109094" Name="flags" />
+<Field Token="67109095" Name="time" />
+<Field Token="67109096" Name="extra" />
+<Type Token="33554468" Name="ColorPicker.InterceptKeys/LowLevelKeyboardProc" />
+<Method Token="100663700" Name=".ctor" Variables="this;object;method;" ParamCnt="3" />
+<Method Token="100663701" Name="Invoke" Variables="this;nCode;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663702" Name="BeginInvoke" Variables="this;nCode;wParam;lParam;callback;object;" ParamCnt="6" />
+<Method Token="100663703" Name="EndInvoke" Variables="this;lParam;result;" ParamCnt="3" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663308" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>
